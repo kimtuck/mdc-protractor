@@ -2,925 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e57b5ee2-9831-4016-a756-fc32af65199b" name="Default" comment="base">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/img/anchor.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/test/assets/attributes_test.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/beach.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/html5/blue.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/boom/images/boom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/selenium/chromedriver_2.10.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/test/assets/fast.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/test/assets/fastest.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/click_tests/google_map.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/html5/green.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/images/hawk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/images/hoek.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/icon.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/test/assets/linux_arc.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/img/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/map.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/markerTransparent.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/test/assets/maximum.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/img/object.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/selenium/selenium-server-standalone-2.42.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/test/assets/store.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/tinymce-small.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/tinymce-small.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/tinymce.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/tinymce.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/img/trans.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-bg_diagonals-thick_18_b81900_40x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-bg_flat_10_000000_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-bg_glass_100_fdf5ce_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-bg_glass_65_ffffff_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-icons_222222_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-icons_228ef1_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-icons_ef8c08_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-icons_ffd27a_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-icons_ffffff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/html5/yellow.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/.dir-locals.el" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/tough-cookie/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/node_modules/minimatch/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/node_modules/wordwrap/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/form-data/node_modules/combined-stream/node_modules/delayed-stream/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/boom/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/cryptiles/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/asn1/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/node-uuid/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/qs/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/tough-cookie/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/node_modules/source-map/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/node_modules/minimist/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/form-data/node_modules/async/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/cryptiles/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/sntp/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/tough-cookie/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/saucelabs/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/test/00-setup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/jasminewd/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/minijasminenode/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/node_modules/source-map/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/CHANGELOG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/CHANGES.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/q/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/CONTRIBUTORS" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/ClickTest_testClicksASurroundingStrongTag.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/tough-cookie/node_modules/punycode/LICENSE-MIT.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/lodash/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/node_modules/inherits/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/node_modules/minimatch/node_modules/sigmund/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/jasminewd/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/minijasminenode/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/q/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/aws-sign2/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/form-data/node_modules/async/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/boom/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/cryptiles/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/sntp/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/asn1/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/json-stringify-safe/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/oauth-sign/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/tough-cookie/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/tunnel-agent/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/node_modules/source-map/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/form-data/node_modules/combined-stream/License" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/form-data/node_modules/combined-stream/node_modules/delayed-stream/License" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/form-data/node_modules/combined-stream/node_modules/delayed-stream/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/cryptiles/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/sntp/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/saucelabs/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/test/assets/attributes_test/asd/New Text Document.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/node_modules/wordwrap/README.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/node_modules/inherits/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/node_modules/minimatch/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/node_modules/minimatch/node_modules/sigmund/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/jasminewd/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/lodash/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/minijasminenode/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/q/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/aws-sign2/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/forever-agent/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/form-data/node_modules/async/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/boom/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/sntp/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/asn1/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/assert-plus/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/json-stringify-safe/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/mime/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/node-uuid/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/oauth-sign/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/tough-cookie/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/tough-cookie/node_modules/punycode/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/tunnel-agent/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/saucelabs/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/node_modules/source-map/node_modules/amdefine/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/README.old" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/form-data/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/form-data/node_modules/combined-stream/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/form-data/node_modules/combined-stream/node_modules/delayed-stream/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/qs/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/Redirect.aspx.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/Redirect.aspx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/saucelabs/lib/SauceLabs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/Settings.StyleCop" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/Web.Config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/test/_.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/_base.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/_base.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver/abstractbuilder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver/actionsequence.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/actualXhtmlPage.xhtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/adm-zip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/ajaxy_page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/alerts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/testapp/alt_root_index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/node_modules/source-map/node_modules/amdefine/amdefine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/testapp/lib/angular_v1.2.9/angular-animate.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/testapp/lib/angular_v1.2.9/angular-route.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/testapp/lib/angular_v1.2.9/angular-route.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/testapp/lib/angular_v1.2.9/angular.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/testapp/lib/angular_v1.2.9/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/testapp/animation/animation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/testapp/animation/animation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/testapp/animation/animation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/docs/api.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/testapp/components/app-version.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/testapp/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/test/_/argv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/node_modules/source-map/lib/source-map/array-set.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/array/array.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/node_modules/source-map/build/assert-shim.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/testing/assert.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/testing/assert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/asserts/asserts.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/webdriver/testing/asserts.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/asserts/asserts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver/testing/asserts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/labs/testing/assertthat.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/labs/testing/assertthat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/minijasminenode/lib/async-callback.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/minijasminenode/spec/async-callback_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/form-data/node_modules/async/lib/async.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/testapp/async/async.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/base.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/base.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/node_modules/source-map/lib/source-map/base64-vlq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/test/bash-comparison.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/test/basic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/node_modules/minimatch/test/basic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/minijasminenode/spec/because.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/node-uuid/benchmark/bench.gnu" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/node_modules/minimatch/node_modules/sigmund/bench.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/node-uuid/benchmark/bench.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/node-uuid/benchmark/benchmark-native.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/node-uuid/benchmark/benchmark.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/test/_/bin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/node_modules/source-map/lib/source-map/binary-search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/testapp/bindings/bindings.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/testapp/bindings/bindings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/test/assets/attributes_test/blank file.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/blank.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/example/bool.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/node_modules/minimist/test/bool.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/booleanAttributes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/locators_tests/boolean_attribute_selected.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/example/boolean_double.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/example/boolean_single.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/node_modules/minimatch/test/brace-expand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/node_modules/wordwrap/test/break.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/docs/browser-setup.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/browser-source-map-support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/labs/useragent/browser.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/lib/browser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/labs/useragent/browser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/frame_switching_tests/bug4876.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/frame_switching_tests/bug4876_iframe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/webdriver/builder.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/builder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver/builder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/webdriver/button.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver/button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/node_modules/minimatch/test/caching.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver/capabilities.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/child/childPage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/chrome.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/lib/driverProviders/chrome.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/chrome.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/example/chromeOnlyConf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_goog_debug_Error.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_goog_iter_Iterator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_goog_labs_testing_AllOfMatcher.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_goog_labs_testing_AnyOfMatcher.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_goog_labs_testing_ContainsStringMatcher.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_goog_labs_testing_EqualToIgnoringWhitespaceMatcher.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_goog_labs_testing_EqualToMatcher.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_goog_labs_testing_GreaterThanMatcher.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_goog_labs_testing_HasPropertyMatcher.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_goog_labs_testing_InstanceOfMatcher.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_goog_labs_testing_IsNotMatcher.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_goog_labs_testing_IsNullOrUndefinedMatcher.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_goog_labs_testing_LessThanEqualToMatcher.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_goog_labs_testing_LessThanMatcher.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_goog_labs_testing_MatcherError.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_goog_labs_testing_ObjectEqualsMatcher.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_goog_labs_testing_RegexMatcher.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_goog_labs_testing_StartsWithMatcher.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_goog_labs_testing_StringContainsInOrderMatcher.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_goog_net_DefaultXmlHttpFactory.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_goog_net_WrapperXmlHttpFactory.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_goog_net_XmlHttpFactory.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_AbstractBuilder.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_ActionSequence.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_Alert.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_EventEmitter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_FirefoxDomExecutor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_Locator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_Session.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_UnhandledAlertError.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_WebDriver.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_WebDriver_Logs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_WebDriver_Navigation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_WebDriver_Options.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_WebDriver_TargetLocator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_WebDriver_Timeouts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_WebDriver_Window.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_WebElement.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_http_Executor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_http_Request.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_http_Response.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_http_XhrClient.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_promise_ControlFlow.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_promise_Deferred.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_promise_Frame_.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_promise_Node_.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_promise_Task_.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_stacktrace_Frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_testing_Assertion_DelegatingMatcher_.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_testing_ContainsMatcher.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_testing_NegatedAssertion.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/lib/cli.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/minijasminenode/lib/cli.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/clickEventPage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/click_tests/click_in_iframe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/click_out_of_bounds.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/click_out_of_bounds_overflow.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/click_source.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/click_too_big_in_frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/clicks.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/test/client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/cn-test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/colorPage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/webdriver/command.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/q/benchmark/compare-with-callbacks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/node-uuid/test/compare_v1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/form-data/node_modules/async/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/protractor/conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/example/conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/lib/configParser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/testapp/conflict/conflict.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/util/constants.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/content.inline.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/content.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/docs/control-flow.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/test/cookie_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/cookies.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/lib/copy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/webdriver/http/corsclient.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver/http/corsclient.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/lib/crypto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/test/crypto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/cssTransform.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/cssTransform2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/ctf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/ctio.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/lib/frameworks/cucumber.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/test/cwd-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/node_modules/minimist/test/dash.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/test/dash.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/html5/database.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/docs/debugging.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/lib/frameworks/debugprint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/node_modules/minimist/test/default_bool.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/example/default_hash.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/example/default_singles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/methods/deflater.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/frame_switching_tests/deletingFrame_iframe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/frame_switching_tests/deletingFrame_iframe2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/deps.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/deps.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/example/divide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/document_write_in_onload.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/dossier.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/dossier.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/dragAndDropInsideScrolledDiv.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/draggableLists.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/droppableItems.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/test/element_finding_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/coordinates_tests/element_in_nested_frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/headers/entryHeader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/enum_bot_ErrorCode.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/enum_bot_Error_State.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/enum_goog_dom_NodeType.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/enum_goog_net_XmlHttp_ReadyState.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/enum_goog_string_Unicode.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/enum_goog_uri_utils_ComponentIndex.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/enum_goog_uri_utils_StandardQueryParam.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/enum_webdriver_Browser.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/enum_webdriver_Button.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/enum_webdriver_Capability.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/enum_webdriver_CommandName.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/enum_webdriver_FirefoxDomExecutor_Attribute_.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/enum_webdriver_FirefoxDomExecutor_EventType_.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/enum_webdriver_logging_Level.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/enum_webdriver_logging_LevelName.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/enum_webdriver_logging_Type.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/enum_webdriver_promise_ControlFlow_EventType.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/enum_webdriver_promise_Deferred_State_.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/atoms/error.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/debug/error.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/error.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/atoms/error.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/errors.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/util/errors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/asn1/lib/ber/errors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/lib/escape.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/webdriver/events.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver/events.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/example/example_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/executors.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/node_modules/minimatch/test/extglob-ending-with-state-char.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/minijasminenode/spec/failure_egs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/docs/faq.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/util/fattr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/fileserver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/webdriver/firefoxdomexecutor.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver/firefoxdomexecutor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctf/float.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/test/foreach.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/testapp/form/form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/testapp/form/form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/formSelectionPage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/form-data/lib/form_data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/form_handling_js_submit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/frameScrollChild.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/frameScrollPage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/frameScrollParent.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/frame_with_height_above_200.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/frame_with_nested_scrolling_frame_out_of_view.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/frame_with_small_height.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/safari/frames_benchmark.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/frameset.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/framesetPage2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/framesetPage3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/docs/frameworks.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/functions/functions.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/functions/functions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/scripts/generate-docs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/tough-cookie/generate-pubsuffix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/html5/geolocation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/lib/getSafe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/globalscope.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/test/globstar-match.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/example/google_search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/example/google_search_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/child/grandchild/grandchildPage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/hidden.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/test/assets/attributes_test/New folder/hidden.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/lib/driverProviders/hosted.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/html5Page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/click_tests/html5_submit_buttons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/http_signing.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/test/http/http_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/httpserver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/node_modules/wordwrap/test/idleness.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/iframeAtBottom.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/iframeWithAlert.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/amd-test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/browser-test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/header-test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/testapp/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/index.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/http/index.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/net/index.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/remote/index.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/testing/index.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/headers/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/test/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/util/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/minijasminenode/lib/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/node_modules/minimist/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/node_modules/wordwrap/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/aws-sign2/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/forever-agent/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/boom/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/boom/lib/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/boom/test/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/cryptiles/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/cryptiles/lib/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/lib/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/test/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/sntp/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/sntp/lib/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/test/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/asn1/lib/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/asn1/lib/ber/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/oauth-sign/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/tunnel-agent/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/saucelabs/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/saucelabs/test/bootstrap/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/saucelabs/test/helpers/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/http/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/net/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/testing/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/test/testing/index_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/methods/inflater.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/node_modules/inherits/inherits_browser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/injectableContent.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/docs/install.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctf/int.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/node_modules/source-map/node_modules/amdefine/intercept.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/interface_goog_labs_testing_Matcher.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/click_tests/issue5237_frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/iter/iter.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/minijasminenode/lib/jasmine-1.3.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/lib/frameworks/jasmine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/javascriptEnhancedForm.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/javascriptPage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/jquery-1.3.2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/js/jquery-1.4.4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/jquery-ui-1.8.10.custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/js/jquery-ui-1.8.10.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/tools/jsl.conf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/atoms/json.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/json/json.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/atoms/json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/webdriver/key.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver/key.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/lib/launcher.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/example/line_count_options.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/example/line_count_wrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/click_tests/link_that_wraps.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/linked_image.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/lib/driverProviders/local.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver/locators.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/docs/locators.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/lodash/dist/lodash.compat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/lodash/dist/lodash.compat.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/lodash/dist/lodash.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/lodash/dist/lodash.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/lodash/dist/lodash.underscore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/lodash/dist/lodash.underscore.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver/logging.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/labs/testing/logicmatcher.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/labs/testing/logicmatcher.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/testapp/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/protractor/specs/login_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/node_modules/minimist/test/long.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/longContentPage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/lib/lru-cache.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/macbeth.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/structs/map.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/structs/map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/map_visibility.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/click_tests/mapped_page1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/click_tests/mapped_page3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/test/mark.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/labs/testing/matcher.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/math/math.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/math/math.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/node_modules/wordwrap/example/meat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/test/memory-leak.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/tough-cookie/lib/memstore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/test/message.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/messages.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/meta-redirect.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/node_modules/source-map/build/mini-require.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/.bin/minijasminenode.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/node_modules/minimatch/minimatch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/saucelabs/test/mocha.opts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/lib/driverProviders/mock.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/modal_dialogs/modal_1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/modal_dialogs/modal_2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/modal_dialogs/modal_3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/modal_dialogs/modalindex.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/module_selenium-webdriver.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/module_selenium-webdriver__base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/module_selenium-webdriver_builder_class_Builder.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/module_selenium-webdriver_chrome.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/module_selenium-webdriver_chrome_class_Options.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/module_selenium-webdriver_chrome_class_ServiceBuilder.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/module_selenium-webdriver_error.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/module_selenium-webdriver_executors.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/module_selenium-webdriver_http_class_HttpClient.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/module_selenium-webdriver_http_util.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/module_selenium-webdriver_io.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/module_selenium-webdriver_net.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/module_selenium-webdriver_net_portprober.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/module_selenium-webdriver_phantomjs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/module_selenium-webdriver_proxy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/module_selenium-webdriver_remote.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/module_selenium-webdriver_remote_class_DriverService.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/module_selenium-webdriver_remote_class_SeleniumServer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/module_selenium-webdriver_testing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/mouseOver.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_bot_json.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_bot_userAgent.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_array.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_asserts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_debug.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_dom.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_functions.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_iter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_json.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_labs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_labs_testing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_labs_userAgent.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_labs_userAgent_browser.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_labs_userAgent_engine.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_labs_userAgent_util.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_math.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_net_XmlHttp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_net_XmlHttpDefines.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_object.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_string.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_structs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_uri.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_uri_utils.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_userAgent.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_userAgent_product.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_webdriver.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_webdriver_By.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_webdriver_http.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_webdriver_logging.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_webdriver_process.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_webdriver_promise.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_webdriver_stacktrace.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_webdriver_testing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_webdriver_testing_assert.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_webdriver_testing_asserts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/nestedElements.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/minijasminenode/spec/nestedtests_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/test/new-glob-optional-options.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/test/nocase-nomagic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/mime/types/node.types" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/example/nonopt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/node_modules/minimist/test/num.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/labs/testing/numbermatcher.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/object/object.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/labs/testing/objectmatcher.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/sntp/examples/offset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/lib/optional.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/test/chrome/options_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/overflow-body.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/docs/overview.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/node_modules/minimatch/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/node_modules/minimatch/node_modules/sigmund/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/lodash/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/minijasminenode/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/node_modules/minimist/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/node_modules/wordwrap/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/q/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/aws-sign2/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/forever-agent/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/form-data/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/form-data/node_modules/combined-stream/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/form-data/node_modules/combined-stream/node_modules/delayed-stream/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/cryptiles/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/sntp/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/asn1/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/json-stringify-safe/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/mime/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/oauth-sign/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/qs/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/tough-cookie/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/tunnel-agent/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/node_modules/source-map/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/node_modules/source-map/node_modules/amdefine/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/docs/page-objects.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/proxy/page1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/proxy/page2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/proxy/page3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/pageWithOnBeforeUnloadMessage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/pageWithOnLoad.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/pageWithOnUnload.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/test/page_loading_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/page_with_double_overflow_auto.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/coordinates_tests/page_with_element_out_of_view.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/coordinates_tests/page_with_fixed_element.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/page_with_frame_out_of_view.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/coordinates_tests/page_with_hidden_element.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/coordinates_tests/page_with_invisible_element.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/page_with_link_to_slow_loading_page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/page_with_nested_scrolling_frames.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/page_with_nested_scrolling_frames_out_of_view.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/page_with_scrolling_frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/page_with_scrolling_frame_out_of_view.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/page_with_tall_frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/coordinates_tests/page_with_transparent_element.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/page_with_y_overflow_auto.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/node_modules/minimist/test/parse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/node_modules/minimist/test/parse_modified.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/lib/parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/test/pause-resume.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/phantomjs.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/phantomjs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/plain.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/testapp/polling/polling.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/testapp/polling/polling.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/net/portprober.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/test/net/portprober_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/node_modules/source-map/build/prefix-source-map.jsm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/node_modules/source-map/build/prefix-utils.jsm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/scripts/print_logs.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/webdriver/process.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/useragent/product.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/useragent/product.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/useragent/product_isversion.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/useragent/product_isversion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver/promise.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/protractor.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/lib/protractor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/bin/protractor" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/proxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctf/psinfo.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/tough-cookie/lib/pubsuffix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/tough-cookie/node_modules/punycode/punycode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/q/q.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/readOnlyPage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/asn1/lib/ber/reader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/test/readme-issue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/test/readme.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/readme.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/node_modules/minimist/readme.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/test/assets/attributes_test/New folder/readonly.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/docs/referenceConf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/example/reflect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/key_tests/remove_on_keypress.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/testapp/repeater/repeater.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/testapp/repeater/repeater.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/minijasminenode/lib/reporter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/minijasminenode/spec/reporter_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/request.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/amd-test/require.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/resources.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/atoms/response.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/atoms/response.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/resultPage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/test/root.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/node_modules/source-map/test/run-tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/form-data/node_modules/combined-stream/node_modules/delayed-stream/test/run.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/lib/runFromLauncher.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/lib/runner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/minijasminenode/spec/sample_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/scripts/sauce_connect_setup.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/q/benchmark/scenarios.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/screen/screen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/screen/screen.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/screen/screen.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/screen/screen_frame1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/screen/screen_frame2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/screen/screen_iframes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/screen/screen_too_long.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/screen/screen_x_long.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/screen/screen_x_too_long.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/screen/screen_y_too_long.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/amd-test/script.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/browser-test/script.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/browser-test/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/amd-test/script.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/browser-test/script.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/header-test/script.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/scroll.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/scroll2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/scroll3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/scroll5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/seleniumserver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/lib/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/test/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/header-test/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/webdriver/session.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver/session.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/sessionCookieDest.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/example/short.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/test/short.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/node_modules/minimatch/node_modules/sigmund/sigmund.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/lib/signer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/simple.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/simpleTest.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/coordinates_tests/simple_page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/window_switching_tests/simple_page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/minijasminenode/spec/simplefail.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/skin.ie7.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/skin.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/slowLoadingAlert.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/slow_loading_iframes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/test/assets/attributes_test/New folder/somefile.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/node_modules/source-map/lib/source-map/source-map-consumer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/node_modules/source-map/lib/source-map/source-map-generator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/source-map-support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/node_modules/source-map/lib/source-map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/click_tests/span_that_wraps.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/minijasminenode/specs.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/test/stale_element_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/test/stat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/tough-cookie/lib/store.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/string/string.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/example/string.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/string/string.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/json-stringify-safe/stringify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/labs/testing/stringmatcher.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/labs/testing/stringmatcher.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctf/struct.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/structs/structs.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/structs/structs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/styledPage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/click_tests/submitted_page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/node_modules/source-map/build/suffix-browser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/node_modules/source-map/build/suffix-source-map.jsm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/svgPiechart.xhtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/svgTest.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/minijasminenode/spec/syntax-error_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/minijasminenode/spec/syntax_error.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/tables.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/test/tag_name_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/target_page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/lib/taskScheduler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/node_modules/source-map/test/source-map/test-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/node_modules/source-map/test/source-map/test-array-set.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/node_modules/source-map/test/source-map/test-base64-vlq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/node_modules/source-map/test/source-map/test-base64.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/form-data/node_modules/combined-stream/node_modules/delayed-stream/test/integration/test-delayed-http-upload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/form-data/node_modules/combined-stream/node_modules/delayed-stream/test/integration/test-delayed-stream-auto-pause.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/form-data/node_modules/combined-stream/node_modules/delayed-stream/test/integration/test-delayed-stream-pause.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/form-data/node_modules/combined-stream/node_modules/delayed-stream/test/integration/test-delayed-stream.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/form-data/node_modules/combined-stream/node_modules/delayed-stream/test/integration/test-max-data-size.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/node_modules/source-map/build/test-prefix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/form-data/node_modules/combined-stream/node_modules/delayed-stream/test/integration/test-proxy-readable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/node_modules/source-map/test/source-map/test-source-map-generator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/node_modules/source-map/test/source-map/test-source-node.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/node-uuid/test/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/node_modules/inherits/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/json-stringify-safe/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/mime/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/node-uuid/test/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/oauth-sign/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/tough-cookie/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/source-map-support/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/scripts/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/test/modules/test1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/test/modules/test2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/minijasminenode/spec/test_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/scripts/testonsauce.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/scripts/testserver.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/js/themes/modern/theme.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/docs/timeouts.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/minijasminenode/spec/timer_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/tinymce-small.dev.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/tinymce-small.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/tinymce.dev.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/tinymce.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/js/tinymce.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/tinymce.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/docs/toc.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/transformable.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/transformable.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctio/int/tst.64.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctio/uint/tst.64.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctype/tst.basicr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctype/tst.basicw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctype/tst.char.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctype/tst.endian.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctf/tst.fail.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctf/tst.float.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctf/tst.int.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctype/tst.oldwrite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctf/tst.psinfo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctio/float/tst.rfloat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctio/int/tst.rint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctio/uint/tst.roundtrip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctio/uint/tst.ruint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctf/tst.struct.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctype/tst.structw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctf/tst.typedef.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctio/float/tst.wfloat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctype/tst.writeStruct.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctio/uint/tst.wuint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/docs/tutorial.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctf/typedef.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/asn1/lib/ber/types.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/types.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/uri/uri.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/test/uri.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/uri/uri.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/test/usage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/example/usage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/atoms/userAgent.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/atoms/userAgent.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/userDefinedProperty.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/useragent/useragent.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/examples/usr-local.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/http/util.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/labs/useragent/util.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/lib/util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/labs/useragent/util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/uri/utils.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/util/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/lib/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/test/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/saucelabs/lib/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/saucelabs/test/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/node-uuid/uuid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/lib/verify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/scripts/wait_for_browser_provider.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/lib/wddebugger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/testapp/scripts/web-server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/webdriver-manager.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/webdriver-manager" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/bin/webdriver-manager" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/webdriver/webdriver.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver/webdriver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/node_modules/minimist/test/whitespace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/test/whitespace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/win32frameset.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/node_modules/wordwrap/test/wrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/net/wrapperxmlhttpfactory.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/net/wrapperxmlhttpfactory.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/asn1/lib/ber/writer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/http-signature/node_modules/asn1/tst/ber/writer.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/overflow/x_auto_y_auto.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/overflow/x_auto_y_hidden.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/overflow/x_auto_y_scroll.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/overflow/x_hidden_y_auto.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/overflow/x_hidden_y_hidden.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/overflow/x_hidden_y_scroll.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/overflow/x_scroll_y_auto.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/webdriver/http/xhrclient.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/net/xhrlike.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/xhtmlTest.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/docs/source/lib/goog/net/xmlhttp.js.src.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/net/xmlhttpfactory.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/optimist/example/xup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/zipEntry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/glob/test/zz-cleanup.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/protractor/specs/login_spec.js" afterPath="$PROJECT_DIR$/dev/protractor/specs/login_spec.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mdc-protractor.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="e57b5ee2-9831-4016-a756-fc32af65199b" time="1407088963526" ignored="false" />
-    <file path="/login_spec.js" changelist="e57b5ee2-9831-4016-a756-fc32af65199b" time="1407113605778" ignored="false" />
+    <file path="/Dummy.txt" changelist="e57b5ee2-9831-4016-a756-fc32af65199b" time="1407114561438" ignored="false" />
+    <file path="/login_spec.js" changelist="e57b5ee2-9831-4016-a756-fc32af65199b" time="1407114970608" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -940,19 +28,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="login_spec.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="login_spec.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dev/protractor/specs/login_spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="84" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0">
+            <state line="7" column="4" selection-start="381" selection-end="381" vertical-scroll-proportion="0.38230088">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="conf.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="conf.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dev/protractor/conf.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="71" selection-end="71" vertical-scroll-proportion="0.20761245">
+            <state line="7" column="10" selection-start="116" selection-end="187" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -977,8 +65,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/dev/protractor/specs/Login_spec.js" />
-        <option value="$PROJECT_DIR$/dev/protractor/specs/login_spec.js" />
         <option value="$PROJECT_DIR$/dev/protractor/conf.js" />
+        <option value="$PROJECT_DIR$/dev/protractor/specs/login_spec.js" />
       </list>
     </option>
   </component>
@@ -1014,7 +102,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1075,6 +162,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1091,16 +179,16 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="244" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1152" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1152" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1152" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="244" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="244" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager" selected="Node.js.Protractor">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -1168,11 +256,11 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18555614" sideWeight="0.6530172" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18555614" sideWeight="0.65442765" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34698275" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34557235" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297414" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1248,14 +336,28 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dev/protractor/specs/login_spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="84" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dev/protractor/conf.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="71" selection-end="71" vertical-scroll-proportion="0.20761245">
+        <state line="3" column="0" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/protractor/conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="10" selection-start="116" selection-end="187" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/protractor/specs/login_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="4" selection-start="381" selection-end="381" vertical-scroll-proportion="0.38230088">
           <folding />
         </state>
       </provider>
