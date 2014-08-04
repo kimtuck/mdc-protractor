@@ -1,5 +1,5 @@
 describe('User Can Login', function() {
-    it('User can login',function() {
+    beforeEach(function() {
         var username = browser.element(by.name('username'));
         var password = browser.element(by.name('password'));
         var button = browser.element(by.buttonText('Login'));
@@ -9,6 +9,8 @@ describe('User Can Login', function() {
         username.sendKeys(user.login);
         password.sendKeys(user.pass);
         button.click();
+    });
+    it('Takes you to landing page after login',function() {
         expect(browser.getCurrentUrl()).toBe('https://cat.3m.com/layout/index.html#/landing');
     })
 });
