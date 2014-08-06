@@ -5,6 +5,7 @@ exports.config = {
     'browserName': 'chrome'
   },
   specs: [
+      'Support/*.js',
       'PageObjects/*.js',
       'specs/*.js'
   ],

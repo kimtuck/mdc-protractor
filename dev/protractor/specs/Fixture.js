@@ -1,0 +1,3 @@
+beforeEach(function() {
+    LoginPage.login();
+});
