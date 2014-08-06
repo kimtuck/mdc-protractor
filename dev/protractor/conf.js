@@ -9,6 +9,7 @@ exports.config = {
       'PageObjects/*.js',
       'specs/*.js'
   ],
-  baseUrl: 'http://cat.3m.com'
+  allScriptsTimeout: 20*1000,
+  baseUrl: 'https://cat.3m.com'
 
 };

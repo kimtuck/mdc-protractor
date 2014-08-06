@@ -2,20 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e57b5ee2-9831-4016-a756-fc32af65199b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/protractor/specs/Fixture.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/protractor/Support/User.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/protractor/PageObjects/LoginPage.js" afterPath="$PROJECT_DIR$/dev/protractor/PageObjects/LoginPage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/protractor/PageObjects/NavigationTabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/protractor/specs/shop_spec.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/protractor/conf.js" afterPath="$PROJECT_DIR$/dev/protractor/conf.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/protractor/specs/login_spec.js" afterPath="$PROJECT_DIR$/dev/protractor/specs/login_spec.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mdc-protractor.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="e57b5ee2-9831-4016-a756-fc32af65199b" time="1407285797591" ignored="false" />
+    <file path="/Dummy.txt" changelist="e57b5ee2-9831-4016-a756-fc32af65199b" time="1407289696722" ignored="false" />
     <file path="/login_spec.js" changelist="e57b5ee2-9831-4016-a756-fc32af65199b" time="1407288720542" ignored="false" />
     <file path="/LoginPage.js" changelist="e57b5ee2-9831-4016-a756-fc32af65199b" time="1407288676761" ignored="false" />
     <file path="/User.js" changelist="e57b5ee2-9831-4016-a756-fc32af65199b" time="1407288626075" ignored="false" />
     <file path="/Fixture.js" changelist="e57b5ee2-9831-4016-a756-fc32af65199b" time="1407288828365" ignored="false" />
+    <file path="/shop_spec.js" changelist="e57b5ee2-9831-4016-a756-fc32af65199b" time="1407290051010" ignored="false" />
+    <file path="/a.dummy" changelist="e57b5ee2-9831-4016-a756-fc32af65199b" time="1407289737529" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +38,10 @@
       <file leaf-file-name="login_spec.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dev/protractor/specs/login_spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="5" column="11" selection-start="0" selection-end="206" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1407288882432" expanded="true" signature="38:203" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -57,7 +59,9 @@
         <entry file="file://$PROJECT_DIR$/dev/protractor/Support/User.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="3" column="0" selection-start="58" selection-end="58" vertical-scroll-proportion="0.0">
-              <folding />
+              <folding>
+                <marker date="1407288783319" expanded="true" signature="7:59" placeholder="{&quot;login&quot;: 'uat10mn@yahoo.com'...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,10 +75,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="conf.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="conf.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dev/protractor/conf.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="23" selection-start="240" selection-end="240" vertical-scroll-proportion="0.66608995">
+            <state line="12" column="17" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NavigationTabs.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dev/protractor/PageObjects/NavigationTabs.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shop_spec.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dev/protractor/specs/shop_spec.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="10" selection-start="324" selection-end="324" vertical-scroll-proportion="0.63716817">
               <folding />
             </state>
           </provider>
@@ -104,6 +126,7 @@
         <option value="$PROJECT_DIR$/dev/protractor/specs/login_spec.js" />
         <option value="$PROJECT_DIR$/dev/protractor/PageObjects/LoginPage.js" />
         <option value="$PROJECT_DIR$/dev/protractor/conf.js" />
+        <option value="$PROJECT_DIR$/dev/protractor/specs/shop_spec.js" />
       </list>
     </option>
   </component>
@@ -343,7 +366,11 @@
       <created>1407285813962</created>
       <updated>1407285813962</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="five -- dsl">
+      <created>1407288958879</created>
+      <updated>1407288958879</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -411,7 +438,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="four -- page objects" />
+    <option name="LAST_COMMIT_MESSAGE" value="five -- dsl" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -429,6 +456,7 @@
     <MESSAGE value="two" />
     <MESSAGE value="three -- beforeEach" />
     <MESSAGE value="four -- page objects" />
+    <MESSAGE value="five -- dsl" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -437,7 +465,9 @@
     <entry file="file://$PROJECT_DIR$/dev/protractor/specs/login_spec.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1407288882432" expanded="true" signature="38:203" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -458,7 +488,9 @@
     <entry file="file://$PROJECT_DIR$/dev/protractor/specs/login_spec.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1407288882432" expanded="true" signature="38:203" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -472,7 +504,9 @@
     <entry file="file://$PROJECT_DIR$/dev/protractor/specs/login_spec.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1407288882432" expanded="true" signature="38:203" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -486,20 +520,15 @@
     <entry file="file://$PROJECT_DIR$/dev/protractor/Support/User.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="0" selection-start="58" selection-end="58" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1407288783319" expanded="true" signature="7:59" placeholder="{&quot;login&quot;: 'uat10mn@yahoo.com'...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dev/protractor/specs/Fixture.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="0" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/protractor/specs/login_spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -511,9 +540,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dev/protractor/specs/login_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="11" selection-start="0" selection-end="206" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1407288882432" expanded="true" signature="38:203" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/protractor/PageObjects/NavigationTabs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dev/protractor/conf.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="23" selection-start="240" selection-end="240" vertical-scroll-proportion="0.66608995">
+        <state line="12" column="17" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/protractor/specs/shop_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="10" selection-start="324" selection-end="324" vertical-scroll-proportion="0.63716817">
           <folding />
         </state>
       </provider>
