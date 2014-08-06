@@ -5,6 +5,7 @@ exports.config = {
     'browserName': 'chrome'
   },
   specs: [
+      'PageObjects/*.js',
       'specs/*.js'
   ],
   baseUrl: 'http://cat.3m.com'
