@@ -1,0 +1,42 @@
+PurchaseSomeBooks
+Error: Timed out waiting for Protractor to synchronize with the page after 20 seconds. Please see https://github.com/angular/protractor/blob/master/docs/faq.md
+    at Error (<anonymous>)
+    at C:\projects\mdc-protractor\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1412:15
+    at C:\projects\mdc-protractor\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1561:7
+    at C:\projects\mdc-protractor\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1243:15
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\projects\mdc-protractor\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1539:20)
+    at notify (C:\projects\mdc-protractor\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:362:12)
+    at notifyAll (C:\projects\mdc-protractor\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:331:7)
+    at resolve (C:\projects\mdc-protractor\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:309:7)
+    at reject [as errback] (C:\projects\mdc-protractor\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:439:5)
+    at reject (C:\projects\mdc-protractor\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1725:5)
+==== async task ====
+WebDriver.executeScript()
+    at webdriver.WebDriver.schedule (C:\projects\mdc-protractor\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:268:15)
+    at webdriver.WebDriver.executeAsyncScript (C:\projects\mdc-protractor\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:496:15)
+    at Protractor.waitForAngular (C:\projects\mdc-protractor\node_modules\protractor\lib\protractor.js:887:22)
+    at waitForDialog (C:\projects\mdc-protractor\dev\protractor\CommonObjects\Dialog.js:4:17)
+    at confirm (C:\projects\mdc-protractor\dev\protractor\CommonObjects\Dialog.js:12:14)
+    at addAllTitlesToBuyCart (C:\projects\mdc-protractor\dev\protractor\PageObjects\CartsPage.js:10:16)
+    at null.<anonymous> (C:\projects\mdc-protractor\dev\protractor\specs\Purchase_spec.js:14:19)
+    at C:\projects\mdc-protractor\node_modules\protractor\node_modules\jasminewd\index.js:94:14
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\projects\mdc-protractor\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1539:20)
+==== async task ====
+Asynchronous test function: it()
+    at null.<anonymous> (C:\projects\mdc-protractor\node_modules\protractor\node_modules\jasminewd\index.js:93:33)
+    at null.<anonymous> (C:\projects\mdc-protractor\node_modules\protractor\node_modules\minijasminenode\lib\async-callback.js:45:37)
+    at jasmine.Block.execute (C:\projects\mdc-protractor\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:1174:17)
+    at jasmine.Queue.next_ (C:\projects\mdc-protractor\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2209:31)
+    at null._onTimeout (C:\projects\mdc-protractor\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2199:18)
+    at Timer.listOnTimeout [as ontimeout] (timers.js:110:15)==== async task ====
+Error
+    at null.<anonymous> (C:\projects\mdc-protractor\dev\protractor\specs\Purchase_spec.js:5:5)
+    at jasmine.Env.describe_ (C:\projects\mdc-protractor\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:913:21)
+    at jasmine.Env.ddescribe (C:\projects\mdc-protractor\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:934:15)
+    at ddescribe (C:\projects\mdc-protractor\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:689:27)
+    at Object.<anonymous> (C:\projects\mdc-protractor\dev\protractor\specs\Purchase_spec.js:1:63)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+15:50:51  https://cat.3m.com/layout/vendor/fontawesome/fontawesome-webfont.woff 0:0 Failed to load resource: the server responded with a status of 404 (Not Found)

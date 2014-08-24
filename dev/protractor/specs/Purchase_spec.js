@@ -1,4 +1,7 @@
-describe('Purchase End-To-End test', function() {
+ddescribe('Purchase End-To-End test', function() {
+    beforeEach(function() {
+        Login();
+    });
     it('PurchaseSomeBooks', function() {
 
         var referenceNumber='Ref' + (new Date()).getTime();

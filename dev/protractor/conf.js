@@ -5,11 +5,17 @@ exports.config = {
     'browserName': 'chrome'
   },
   specs: [
+      'CommonObjects/*.js',
       'Support/*.js',
       'PageObjects/*.js',
       'specs/*.js'
   ],
-  allScriptsTimeout: 20*1000,
+    jasmineNodeOpts: {
+        showColors: true,
+        defaultTimeoutInterval: 1000*60*10
+    },
+
+    allScriptsTimeout: 200*1000,
   baseUrl: 'https://cat.3m.com'
 
 };

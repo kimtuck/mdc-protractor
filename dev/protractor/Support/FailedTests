@@ -1,0 +1,1544 @@
+"C:\Program Files\nodejs\node.exe" node_modules\protractor\lib\cli.js dev/protractor/conf.js
+
+------------------------------------
+PID: 11508 (capability: chrome #1)
+------------------------------------
+
+Using the selenium server at http://localhost:4444/wd/hub
+init
+Runner Started.
+angularjs homepage : should log in the user ... 
+Passed.
+.angularjs homepage: 3 of 3 passed.
+Date Range Validation : ShopPage: Published Within: Valid date range ... 
+Passed.
+.Date Range Validation : ShopPage: Published Within: From Date after todays date: From Date invalid ... 
+Passed.
+.Date Range Validation : ShopPage: Published Within: From Date after todays date: From Date invalid, reset=no tooltip ... 
+Passed.
+.Date Range Validation : ShopPage: Published Within: Thru Date after todays date: Thru Date invalid ... 
+Passed.
+.Date Range Validation : ShopPage: Published Within: Thru Date after todays date: Thru Date invalid, reset=no tooltip ... 
+Passed.
+.Date Range Validation : ShopPage: Published Within: Valid from date, Thru before From, then thru date has a tooltip ... 
+Passed.
+.Date Range Validation : ShopPage: Published Within: Valid from date, Valid thru date; from date after thru date, then from date has a tooltip ... 
+Passed.
+.Date Range Validation : ShopPage: Published Within: Valid from date, Valid thru date; from date after thru date, then fix from date ... 
+Passed.
+.Date Range Validation : ShopPage: Published Within: Valid from date, Valid thru date; thru date before from date,  then thru date has a tooltip ... 
+Passed.
+.Date Range Validation : ShopPage: Published Within: Valid from date, Valid thru date; thru date before from date, then fix thru date ... 
+Passed.
+.Date Range Validation : ShopPage: Published Within: From,Thru are invalid, then choose a non-custom dropdown value, the tooltips disappear. ... 
+Passed.
+.Date Range Validation : ShopPage: Published Within: invalid dates, search and save buttons are disabled (Jira 2128) (with "valid dates" using [object Object]) ... 
+Failed.
+FDate Range Validation : ShopPage: DateAddedToCatalog: Valid date range ... 
+Passed.
+.Date Range Validation : ShopPage: DateAddedToCatalog: From Date after todays date: From Date invalid ... 
+Passed.
+.Date Range Validation : ShopPage: DateAddedToCatalog: From Date after todays date: From Date invalid, reset=no tooltip ... 
+Passed.
+.Date Range Validation : ShopPage: DateAddedToCatalog: Thru Date after todays date: Thru Date invalid ... 
+Passed.
+.Date Range Validation : ShopPage: DateAddedToCatalog: Thru Date after todays date: Thru Date invalid, reset=no tooltip ... 
+Passed.
+.Date Range Validation : ShopPage: DateAddedToCatalog: Valid from date, Thru before From, then thru date has a tooltip ... 
+Passed.
+.Date Range Validation : ShopPage: DateAddedToCatalog: Valid from date, Valid thru date; from date after thru date, then from date has a tooltip ... 
+Passed.
+.Date Range Validation : ShopPage: DateAddedToCatalog: Valid from date, Valid thru date; from date after thru date, then fix from date ... 
+Passed.
+.Date Range Validation : ShopPage: DateAddedToCatalog: Valid from date, Valid thru date; thru date before from date,  then thru date has a tooltip ... 
+Passed.
+.Date Range Validation : ShopPage: DateAddedToCatalog: Valid from date, Valid thru date; thru date before from date, then fix thru date ... 
+Passed.
+.Date Range Validation : ShopPage: DateAddedToCatalog: From,Thru are invalid, then choose a non-custom dropdown value, the tooltips disappear. ... 
+Passed.
+.Date Range Validation : ShopPage: DateAddedToCatalog: invalid dates, search and save buttons are disabled (Jira 2128) (with "valid dates" using [object Object]) ... 
+Passed.
+.Date Range Validation : CollectionPage: Published Within: Valid date range ... 
+Passed.
+.Date Range Validation : CollectionPage: Published Within: From Date after todays date: From Date invalid ... 
+Passed.
+.Date Range Validation : CollectionPage: Published Within: From Date after todays date: From Date invalid, reset=no tooltip ... 
+Passed.
+.Date Range Validation : CollectionPage: Published Within: Thru Date after todays date: Thru Date invalid ... 
+Passed.
+.Date Range Validation : CollectionPage: Published Within: Thru Date after todays date: Thru Date invalid, reset=no tooltip ... 
+Passed.
+.Date Range Validation : CollectionPage: Published Within: Valid from date, Thru before From, then thru date has a tooltip ... 
+Passed.
+.Date Range Validation : CollectionPage: Published Within: Valid from date, Valid thru date; from date after thru date, then from date has a tooltip ... 
+Passed.
+.Date Range Validation : CollectionPage: Published Within: Valid from date, Valid thru date; from date after thru date, then fix from date ... 
+Passed.
+.Date Range Validation : CollectionPage: Published Within: Valid from date, Valid thru date; thru date before from date,  then thru date has a tooltip ... 
+Passed.
+.Date Range Validation : CollectionPage: Published Within: Valid from date, Valid thru date; thru date before from date, then fix thru date ... 
+Passed.
+.Date Range Validation : CollectionPage: Published Within: From,Thru are invalid, then choose a non-custom dropdown value, the tooltips disappear. ... 
+Passed.
+.Date Range Validation : CollectionPage: Published Within: invalid dates, search and save buttons are disabled (Jira 2128) (with "valid dates" using [object Object]) ... 
+Failed.
+FDate Range Validation : CollectionPage: DateAddedToCatalog: Valid date range ... 
+Passed.
+.Date Range Validation : CollectionPage: DateAddedToCatalog: From Date after todays date: From Date invalid ... 
+Passed.
+.Date Range Validation : CollectionPage: DateAddedToCatalog: From Date after todays date: From Date invalid, reset=no tooltip ... 
+Passed.
+.Date Range Validation : CollectionPage: DateAddedToCatalog: Thru Date after todays date: Thru Date invalid ... 
+Passed.
+.Date Range Validation : CollectionPage: DateAddedToCatalog: Thru Date after todays date: Thru Date invalid, reset=no tooltip ... 
+Passed.
+.Date Range Validation : CollectionPage: DateAddedToCatalog: Valid from date, Thru before From, then thru date has a tooltip ... 
+Passed.
+.Date Range Validation : CollectionPage: DateAddedToCatalog: Valid from date, Valid thru date; from date after thru date, then from date has a tooltip ... 
+Passed.
+.Date Range Validation : CollectionPage: DateAddedToCatalog: Valid from date, Valid thru date; from date after thru date, then fix from date ... 
+Passed.
+.Date Range Validation : CollectionPage: DateAddedToCatalog: Valid from date, Valid thru date; thru date before from date,  then thru date has a tooltip ... 
+Passed.
+.Date Range Validation : CollectionPage: DateAddedToCatalog: Valid from date, Valid thru date; thru date before from date, then fix thru date ... 
+Passed.
+.Date Range Validation : CollectionPage: DateAddedToCatalog: From,Thru are invalid, then choose a non-custom dropdown value, the tooltips disappear. ... 
+Passed.
+.Date Range Validation : CollectionPage: DateAddedToCatalog: invalid dates, search and save buttons are disabled (Jira 2128) (with "valid dates" using [object Object]) ... 
+Passed.
+.Date Range Validation : CollectionPage: EbookPurchasedDate: Valid date range ... 
+Passed.
+.Date Range Validation : CollectionPage: EbookPurchasedDate: From Date after todays date: From Date invalid ... 
+Passed.
+.Date Range Validation : CollectionPage: EbookPurchasedDate: From Date after todays date: From Date invalid, reset=no tooltip ... 
+Passed.
+.Date Range Validation : CollectionPage: EbookPurchasedDate: Thru Date after todays date: Thru Date invalid ... 
+Passed.
+.Date Range Validation : CollectionPage: EbookPurchasedDate: Thru Date after todays date: Thru Date invalid, reset=no tooltip ... 
+Passed.
+.Date Range Validation : CollectionPage: EbookPurchasedDate: Valid from date, Thru before From, then thru date has a tooltip ... 
+Passed.
+.Date Range Validation : CollectionPage: EbookPurchasedDate: Valid from date, Valid thru date; from date after thru date, then from date has a tooltip ... 
+Passed.
+.Date Range Validation : CollectionPage: EbookPurchasedDate: Valid from date, Valid thru date; from date after thru date, then fix from date ... 
+Passed.
+.Date Range Validation : CollectionPage: EbookPurchasedDate: Valid from date, Valid thru date; thru date before from date,  then thru date has a tooltip ... 
+Passed.
+.Date Range Validation : CollectionPage: EbookPurchasedDate: Valid from date, Valid thru date; thru date before from date, then fix thru date ... 
+Passed.
+.Date Range Validation : CollectionPage: EbookPurchasedDate: From,Thru are invalid, then choose a non-custom dropdown value, the tooltips disappear. ... 
+Passed.
+.Date Range Validation : CollectionPage: EbookPurchasedDate: invalid dates, search and save buttons are disabled (Jira 2128) (with "valid dates" using [object Object]) ... 
+Failed.
+FDate Range Validation: 400 of 403 passed.
+smoke test -- can go to all the tabs : user tabs -- should allow user to navigate to all the user tabs (with "user_tabs" using [object Object]) ... 
+landing
+Passed.
+.smoke test -- can go to all the tabs : user tabs -- should allow user to navigate to all the user tabs (with "user_tabs" using [object Object]) ... 
+shop
+Passed.
+.smoke test -- can go to all the tabs : user tabs -- should allow user to navigate to all the user tabs (with "user_tabs" using [object Object]) ... 
+shop-by-eisbn
+Passed.
+.smoke test -- can go to all the tabs : user tabs -- should allow user to navigate to all the user tabs (with "user_tabs" using [object Object]) ... 
+shop-cart
+Passed.
+.smoke test -- can go to all the tabs : navigates back to home after choosing another user tab ... 
+Passed.
+.smoke test -- can go to all the tabs : navigates in the admin menu (with "user_tabs" using [object Object]) ... 
+shelves
+Passed.
+.smoke test -- can go to all the tabs : navigates in the admin menu (with "user_tabs" using [object Object]) ... 
+collection
+Passed.
+.smoke test -- can go to all the tabs : navigates in the admin menu (with "user_tabs" using [object Object]) ... 
+purchase-orders
+Passed.
+.smoke test -- can go to all the tabs : navigates in the admin menu (with "user_tabs" using [object Object]) ... 
+autobuy
+Passed.
+.smoke test -- can go to all the tabs : navigates in the admin menu (with "user_tabs" using [object Object]) ... 
+library-settings
+Passed.
+.smoke test -- can go to all the tabs : navigates in the admin menu (with "user_tabs" using [object Object]) ... 
+featured-list-management
+Passed.
+.smoke test -- can go to all the tabs : navigates in the admin menu (with "user_tabs" using [object Object]) ... 
+featured-list-order
+Passed.
+.smoke test -- can go to all the tabs : navigates in the admin menu (with "user_tabs" using [object Object]) ... 
+featured-list-book-order
+Passed.
+.smoke test -- can go to all the tabs : navigates in the admin menu (with "user_tabs" using [object Object]) ... 
+featured-list-group-management
+Passed.
+.smoke test -- can go to all the tabs: 84 of 84 passed.
+Purchase End-To-End test : PurchaseSomeBooks ... 
+select cart uat10mn@yahoo.com MyCart
+not enabled
+not enabled
+processCurrentStatus
+processCurrentStatus
+processCurrentStatus
+Complete
+Passed.
+.Purchase End-To-End test : PurchaseSomeAudioBooks ... 
+select cart uat10mn@yahoo.com MyCart
+not enabled
+not enabled
+processCurrentStatus
+processCurrentStatus
+processCurrentStatus
+processCurrentStatus
+processCurrentStatus
+processCurrentStatus
+processCurrentStatus
+processCurrentStatus
+processCurrentStatus
+processCurrentStatus
+processCurrentStatus
+processCurrentStatus
+processCurrentStatus
+processCurrentStatus
+processCurrentStatus
+processCurrentStatus
+processCurrentStatus
+processCurrentStatus
+processCurrentStatus
+processCurrentStatus
+processCurrentStatus
+processCurrentStatus
+Failed.
+FPurchase End-To-End test: 16 of 17 passed.
+smoke test -- reports tab : should allow user to select reports ... 
+Failed.
+Fsmoke test -- reports tab: 6 of 8 passed.
+smoke test -- shop tab : Shop Items ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop save and load (with "searchProperties" using Title) ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Title Found 719 items
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop Items ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop save and load (with "searchProperties" using Author) ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Author Found 56 items
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop Items ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop save and load (with "searchProperties" using EISBN) ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+EISBN Found 1 items
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop Items ... 
+Failed.
+Fsmoke test -- shop tab : Shop save and load (with "searchProperties" using holdRatio) ... 
+Failed.
+Fsmoke test -- shop tab : Shop Items ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop save and load (with "searchProperties" using PublishedWithin_30Days) ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+PublishedWithin_30Days Found 351 items
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop Items ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop save and load (with "searchProperties" using PublishedWithin_DateRange) ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+PublishedWithin_DateRange Found 2201 items
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop Items ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop save and load (with "searchProperties" using mediaTypeAudioBooks) ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+mediaTypeAudioBooks Found 35913 items
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop Items ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop save and load (with "searchProperties" using mediaTypeMP3) ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+mediaTypeMP3 Found 35913 items
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop Items ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop save and load (with "searchProperties" using mediaTypeebooks) ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+mediaTypeebooks Found 193476 items
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop Items ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop save and load (with "searchProperties" using mediaTypepdf) ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+mediaTypepdf Found 19119 items
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop Items ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop save and load (with "searchProperties" using mediaTypeEPUB) ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+mediaTypeEPUB Found 174357 items
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop Items ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop save and load (with "searchProperties" using Title) ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Title Found 719 items
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop Items ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop save and load (with "searchProperties" using Author) ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Author Found 56 items
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop Items ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop save and load (with "searchProperties" using EISBN) ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+EISBN Found 1 items
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop Items ... 
+Failed.
+Fsmoke test -- shop tab : Shop save and load (with "searchProperties" using holdRatio) ... 
+Failed.
+Fsmoke test -- shop tab : Shop Items ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop save and load (with "searchProperties" using PublishedWithin_30Days) ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+PublishedWithin_30Days Found 351 items
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop Items ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop save and load (with "searchProperties" using PublishedWithin_DateRange) ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+PublishedWithin_DateRange Found 2201 items
+Failed.
+Fsmoke test -- shop tab : Shop Items ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+Passed.
+.smoke test -- shop tab : Shop save and load (with "searchProperties" using mediaTypeAudioBooks) ... 
+warning: more than one element found for locator by.binding("tableProperties.totalRecords")- you may need to be more specific
+mediaTypeAudioBooks Found 35913 items
+Failed.
+Fsmoke test -- shop tab : Shop Items ... 
+Failed.
+Fsmoke test -- shop tab : Shop save and load (with "searchProperties" using mediaTypeMP3) ... 
+Failed.
+Fsmoke test -- shop tab : Shop Items ... 
+Failed.
+Fsmoke test -- shop tab : Shop save and load (with "searchProperties" using mediaTypeebooks) ... 
+Failed.
+Fsmoke test -- shop tab : Shop Items ... 
+Failed.
+Fsmoke test -- shop tab : Shop save and load (with "searchProperties" using mediaTypepdf) ... 
+Failed.
+Fsmoke test -- shop tab : Shop Items ... 
+Failed.
+Fsmoke test -- shop tab : Shop save and load (with "searchProperties" using mediaTypeEPUB) ... 
+Failed.
+Fsmoke test -- shop tab: 149 of 170 passed.
+Runner Finished.
+122 specs, 19 failures in 8702.719s.
+
+
+Failures:
+
+  1) Date Range Validation ShopPage: Published Within: invalid dates, search and save buttons are disabled (Jira 2128) (with "valid dates" using [object Object])
+   Message:
+     NoSuchElementError: no such element
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+   Stacktrace:
+     Error
+    at C:\Projects\cloud-library\dev\protractor\specs\shopDateRangeValidation_spec.js:129:9
+    at using (C:\Projects\cloud-library\dev\protractor\support\using.js:6:6)
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\shopDateRangeValidation_spec.js:3:5)
+    at jasmine.Env.describe_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:907:21)
+    at jasmine.Env.describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:892:15)
+    at describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:652:27)
+    at Object.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\shopDateRangeValidation_spec.js:1:63)
+At async task:
+      NoSuchElementError: no such element
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+    at new bot.Error (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\error.js:109:18)
+    at Object.bot.response.checkResponse (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\response.js:106:9)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:276:20
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1178:15
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at notify (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:428:12)
+    at notifyAll (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:397:7)
+    at resolve (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:375:7)
+    at fulfill (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:493:5)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1465:10
+==== async task ====
+WebDriver.findElement(By.className("criteria-display-container"))
+    at webdriver.WebDriver.schedule (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:267:15)
+    at webdriver.WebDriver.findElement (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:700:17)
+    at Protractor.findElement (C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:748:25)
+    at using (C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:60:19)
+    at Object.elementFinder.isPresent (C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:146:14)
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\shopDateRangeValidation_spec.js:131:60)
+    at flow.execute.then.e.stack (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:36:14)
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at webdriver.promise.ControlFlow.runEventLoop_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1463:8)
+==== async task ====
+asynchronous test function
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:35:26)
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\async-callback.js:45:37)
+    at jasmine.Block.execute (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:1168:17)
+    at jasmine.Queue.next_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2200:31)
+    at jasmine.Queue.start (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2153:8)
+    at jasmine.Spec.execute (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2481:14)
+    at jasmine.Queue.next_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2200:31)
+    at onComplete (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2196:18)
+    at jasmine.Spec.finish (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2455:5)
+
+  2) Date Range Validation CollectionPage: Published Within: invalid dates, search and save buttons are disabled (Jira 2128) (with "valid dates" using [object Object])
+   Message:
+     NoSuchElementError: no such element
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 21 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+   Stacktrace:
+     Error
+    at C:\Projects\cloud-library\dev\protractor\specs\shopDateRangeValidation_spec.js:129:9
+    at using (C:\Projects\cloud-library\dev\protractor\support\using.js:6:6)
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\shopDateRangeValidation_spec.js:3:5)
+    at jasmine.Env.describe_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:907:21)
+    at jasmine.Env.describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:892:15)
+    at describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:652:27)
+    at Object.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\shopDateRangeValidation_spec.js:1:63)
+At async task:
+      NoSuchElementError: no such element
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 21 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+    at new bot.Error (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\error.js:109:18)
+    at Object.bot.response.checkResponse (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\response.js:106:9)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:276:20
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1178:15
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at notify (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:428:12)
+    at notifyAll (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:397:7)
+    at resolve (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:375:7)
+    at fulfill (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:493:5)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1465:10
+==== async task ====
+WebDriver.findElement(By.className("criteria-display-container"))
+    at webdriver.WebDriver.schedule (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:267:15)
+    at webdriver.WebDriver.findElement (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:700:17)
+    at Protractor.findElement (C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:748:25)
+    at using (C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:60:19)
+    at Object.elementFinder.isPresent (C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:146:14)
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\shopDateRangeValidation_spec.js:131:60)
+    at flow.execute.then.e.stack (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:36:14)
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at webdriver.promise.ControlFlow.runEventLoop_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1463:8)
+==== async task ====
+asynchronous test function
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:35:26)
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\async-callback.js:45:37)
+    at jasmine.Block.execute (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:1168:17)
+    at jasmine.Queue.next_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2200:31)
+    at jasmine.Queue.start (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2153:8)
+    at jasmine.Spec.execute (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2481:14)
+    at jasmine.Queue.next_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2200:31)
+    at onComplete (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2196:18)
+    at jasmine.Spec.finish (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2455:5)
+
+  3) Date Range Validation CollectionPage: EbookPurchasedDate: invalid dates, search and save buttons are disabled (Jira 2128) (with "valid dates" using [object Object])
+   Message:
+     NoSuchElementError: no such element
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+   Stacktrace:
+     Error
+    at C:\Projects\cloud-library\dev\protractor\specs\shopDateRangeValidation_spec.js:129:9
+    at using (C:\Projects\cloud-library\dev\protractor\support\using.js:6:6)
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\shopDateRangeValidation_spec.js:3:5)
+    at jasmine.Env.describe_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:907:21)
+    at jasmine.Env.describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:892:15)
+    at describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:652:27)
+    at Object.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\shopDateRangeValidation_spec.js:1:63)
+At async task:
+      NoSuchElementError: no such element
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+    at new bot.Error (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\error.js:109:18)
+    at Object.bot.response.checkResponse (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\response.js:106:9)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:276:20
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1178:15
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at notify (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:428:12)
+    at notifyAll (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:397:7)
+    at resolve (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:375:7)
+    at fulfill (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:493:5)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1465:10
+==== async task ====
+WebDriver.findElement(By.className("criteria-display-container"))
+    at webdriver.WebDriver.schedule (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:267:15)
+    at webdriver.WebDriver.findElement (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:700:17)
+    at Protractor.findElement (C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:748:25)
+    at using (C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:60:19)
+    at Object.elementFinder.isPresent (C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:146:14)
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\shopDateRangeValidation_spec.js:131:60)
+    at flow.execute.then.e.stack (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:36:14)
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at webdriver.promise.ControlFlow.runEventLoop_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1463:8)
+==== async task ====
+asynchronous test function
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:35:26)
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\async-callback.js:45:37)
+    at jasmine.Block.execute (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:1168:17)
+    at jasmine.Queue.next_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2200:31)
+    at jasmine.Queue.start (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2153:8)
+    at jasmine.Spec.execute (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2481:14)
+    at jasmine.Queue.next_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2200:31)
+    at onComplete (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2196:18)
+    at jasmine.Spec.finish (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2455:5)
+
+  4) Purchase End-To-End test PurchaseSomeAudioBooks
+   Message:
+     Expected 'Purchase did not complete in allotted time' to be ''.
+   Stacktrace:
+     Error: Expected 'Purchase did not complete in allotted time' to be ''.
+    at new jasmine.ExpectationResult (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:137:32)
+    at null.toBe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:1339:29)
+    at C:\Projects\cloud-library\dev\protractor\PageObjects\PurchaseOrderPage.js:49:79
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1178:15
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at notify (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:428:12)
+    at notifyAll (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:397:7)
+    at resolve (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:375:7)
+    at reject (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:503:5)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1474:10
+
+  5) smoke test -- reports tab should allow user to select reports
+   Message:
+     Expected 1 to be 2.
+   Stacktrace:
+     Error: Expected 1 to be 2.
+    at new jasmine.ExpectationResult (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:137:32)
+    at null.toBe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:1339:29)
+    at C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\ReportsTab_spec.js:19:42
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1178:15
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at notify (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:428:12)
+    at notifyAll (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:397:7)
+    at resolve (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:375:7)
+    at fulfill (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:493:5)
+    at Object.webdriver.promise.asap (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:732:5)
+
+  6) smoke test -- reports tab should allow user to select reports
+   Message:
+     UnknownError: null value in entry: name=null
+   Stacktrace:
+     Error
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\ReportsTab_spec.js:6:5)
+    at jasmine.Env.describe_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:907:21)
+    at jasmine.Env.describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:892:15)
+    at describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:652:27)
+    at Object.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\ReportsTab_spec.js:1:63)
+At async task:
+      UnknownError: null value in entry: name=null
+    at new bot.Error (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\error.js:109:18)
+    at Object.bot.response.checkResponse (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\response.js:106:9)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:276:20
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1178:15
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at notify (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:428:12)
+    at notifyAll (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:397:7)
+    at resolve (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:375:7)
+    at fulfill (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:493:5)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1465:10
+==== async task ====
+WebDriver.switchTo().window(undefined)
+    at webdriver.WebDriver.schedule (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:267:15)
+    at webdriver.WebDriver.TargetLocator.window (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:1415:23)
+    at C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\ReportsTab_spec.js:20:32
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1178:15
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at notify (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:428:12)
+    at notifyAll (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:397:7)
+    at resolve (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:375:7)
+    at fulfill (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:493:5)
+==== async task ====
+asynchronous test function
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:35:26)
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\async-callback.js:45:37)
+    at jasmine.Block.execute (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:1168:17)
+    at jasmine.Queue.next_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2200:31)
+    at null._onTimeout (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2190:18)
+
+  7) smoke test -- shop tab Shop Items
+   Message:
+     ElementNotVisibleError: element not visible
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 66 milliseconds
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+   Stacktrace:
+     Error
+    at C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:38:9
+    at using (C:\Projects\cloud-library\dev\protractor\support\using.js:6:6)
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:30:5)
+    at jasmine.Env.describe_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:907:21)
+    at jasmine.Env.describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:892:15)
+    at describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:652:27)
+    at Object.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:1:63)
+At async task:
+      ElementNotVisibleError: element not visible
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 66 milliseconds
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+    at new bot.Error (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\error.js:109:18)
+    at Object.bot.response.checkResponse (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\response.js:106:9)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:276:20
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1178:15
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at notify (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:428:12)
+    at notifyAll (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:397:7)
+    at resolve (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:375:7)
+    at fulfill (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:493:5)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1465:10
+==== async task ====
+WebElement.sendKeys([object Object])
+    at webdriver.WebDriver.schedule (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:267:15)
+    at webdriver.WebElement.schedule_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:1609:23)
+    at webdriver.WebElement.sendKeys (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:1770:15)
+    at element.(anonymous function) [as sendKeys] (C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:599:32)
+    at C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:104:34
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1178:15
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at notify (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:428:12)
+    at notifyAll (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:397:7)
+==== async task ====
+asynchronous test function
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:35:26)
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\async-callback.js:45:37)
+    at jasmine.Block.execute (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:1168:17)
+    at jasmine.Queue.next_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2200:31)
+    at null._onTimeout (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2190:18)
+
+  8) smoke test -- shop tab Shop save and load (with "searchProperties" using holdRatio)
+   Message:
+     ElementNotVisibleError: element not visible
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 53 milliseconds
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+   Stacktrace:
+     Error
+    at C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:48:5
+    at using (C:\Projects\cloud-library\dev\protractor\support\using.js:6:6)
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:30:5)
+    at jasmine.Env.describe_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:907:21)
+    at jasmine.Env.describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:892:15)
+    at describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:652:27)
+    at Object.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:1:63)
+At async task:
+      ElementNotVisibleError: element not visible
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 53 milliseconds
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+    at new bot.Error (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\error.js:109:18)
+    at Object.bot.response.checkResponse (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\response.js:106:9)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:276:20
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1178:15
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at notify (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:428:12)
+    at notifyAll (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:397:7)
+    at resolve (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:375:7)
+    at fulfill (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:493:5)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1465:10
+==== async task ====
+WebElement.sendKeys([object Object])
+    at webdriver.WebDriver.schedule (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:267:15)
+    at webdriver.WebElement.schedule_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:1609:23)
+    at webdriver.WebElement.sendKeys (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:1770:15)
+    at element.(anonymous function) [as sendKeys] (C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:599:32)
+    at C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:104:34
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1178:15
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at notify (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:428:12)
+    at notifyAll (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:397:7)
+==== async task ====
+asynchronous test function
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:35:26)
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\async-callback.js:45:37)
+    at jasmine.Block.execute (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:1168:17)
+    at jasmine.Queue.next_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2200:31)
+    at null._onTimeout (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2190:18)
+
+  9) smoke test -- shop tab Shop Items
+   Message:
+     ElementNotVisibleError: element not visible
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 65 milliseconds
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+   Stacktrace:
+     Error
+    at C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:38:9
+    at using (C:\Projects\cloud-library\dev\protractor\support\using.js:6:6)
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:30:5)
+    at jasmine.Env.describe_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:907:21)
+    at jasmine.Env.describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:892:15)
+    at describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:652:27)
+    at Object.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:1:63)
+At async task:
+      ElementNotVisibleError: element not visible
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 65 milliseconds
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+    at new bot.Error (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\error.js:109:18)
+    at Object.bot.response.checkResponse (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\response.js:106:9)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:276:20
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1178:15
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at notify (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:428:12)
+    at notifyAll (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:397:7)
+    at resolve (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:375:7)
+    at fulfill (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:493:5)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1465:10
+==== async task ====
+WebElement.sendKeys([object Object])
+    at webdriver.WebDriver.schedule (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:267:15)
+    at webdriver.WebElement.schedule_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:1609:23)
+    at webdriver.WebElement.sendKeys (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:1770:15)
+    at element.(anonymous function) [as sendKeys] (C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:599:32)
+    at C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:104:34
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1178:15
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at notify (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:428:12)
+    at notifyAll (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:397:7)
+==== async task ====
+asynchronous test function
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:35:26)
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\async-callback.js:45:37)
+    at jasmine.Block.execute (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:1168:17)
+    at jasmine.Queue.next_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2200:31)
+    at null._onTimeout (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2190:18)
+
+  10) smoke test -- shop tab Shop save and load (with "searchProperties" using holdRatio)
+   Message:
+     ElementNotVisibleError: element not visible
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 65 milliseconds
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+   Stacktrace:
+     Error
+    at C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:48:5
+    at using (C:\Projects\cloud-library\dev\protractor\support\using.js:6:6)
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:30:5)
+    at jasmine.Env.describe_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:907:21)
+    at jasmine.Env.describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:892:15)
+    at describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:652:27)
+    at Object.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:1:63)
+At async task:
+      ElementNotVisibleError: element not visible
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 65 milliseconds
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+    at new bot.Error (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\error.js:109:18)
+    at Object.bot.response.checkResponse (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\response.js:106:9)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:276:20
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1178:15
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at notify (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:428:12)
+    at notifyAll (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:397:7)
+    at resolve (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:375:7)
+    at fulfill (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:493:5)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1465:10
+==== async task ====
+WebElement.sendKeys([object Object])
+    at webdriver.WebDriver.schedule (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:267:15)
+    at webdriver.WebElement.schedule_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:1609:23)
+    at webdriver.WebElement.sendKeys (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:1770:15)
+    at element.(anonymous function) [as sendKeys] (C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:599:32)
+    at C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:104:34
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1178:15
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at notify (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:428:12)
+    at notifyAll (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:397:7)
+==== async task ====
+asynchronous test function
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:35:26)
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\async-callback.js:45:37)
+    at jasmine.Block.execute (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:1168:17)
+    at jasmine.Queue.next_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2200:31)
+    at null._onTimeout (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2190:18)
+
+  11) smoke test -- shop tab Shop save and load (with "searchProperties" using PublishedWithin_DateRange)
+   Message:
+     Error: Timed out waiting for Protractor to synchronize with the page after 11 seconds. Please see https://github.com/angular/protractor/blob/master/docs/faq.md
+   Stacktrace:
+     Error
+    at C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:48:5
+    at using (C:\Projects\cloud-library\dev\protractor\support\using.js:6:6)
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:30:5)
+    at jasmine.Env.describe_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:907:21)
+    at jasmine.Env.describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:892:15)
+    at describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:652:27)
+    at Object.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:1:63)
+At async task:
+      Error: Timed out waiting for Protractor to synchronize with the page after 11 seconds. Please see https://github.com/angular/protractor/blob/master/docs/faq.md
+    at Error (<anonymous>)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1471:15
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1620:7
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1178:15
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at notify (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:428:12)
+    at notifyAll (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:397:7)
+    at resolve (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:375:7)
+    at reject [as errback] (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:503:5)
+    at reject (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1784:5)
+==== async task ====
+WebDriver.executeScript()
+    at webdriver.WebDriver.schedule (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:267:15)
+    at webdriver.WebDriver.executeAsyncScript (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:492:15)
+    at Protractor.waitForAngular (C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:554:22)
+    at waitForDialog (C:\Projects\cloud-library\dev\protractor\CommonObjects\Dialog.js:4:17)
+    at saveSearch (C:\Projects\cloud-library\dev\protractor\CommonObjects\SaveSearch.js:20:16)
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:63:20)
+    at flow.execute.then.e.stack (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:36:14)
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at webdriver.promise.ControlFlow.runEventLoop_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1463:8)
+==== async task ====
+asynchronous test function
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:35:26)
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\async-callback.js:45:37)
+    at jasmine.Block.execute (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:1168:17)
+    at jasmine.Queue.next_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2200:31)
+    at null._onTimeout (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2190:18)
+
+  12) smoke test -- shop tab Shop save and load (with "searchProperties" using mediaTypeAudioBooks)
+   Message:
+     timeout: timed out after 300000 msec waiting for spec to complete
+   Stacktrace:
+     undefined
+
+  13) smoke test -- shop tab Shop Items
+   Message:
+     ScriptTimeoutError: timeout: Timed out receiving message from renderer: 600.000
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 600.93 seconds
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+   Stacktrace:
+     Error
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:3:5)
+    at jasmine.Env.describe_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:907:21)
+    at jasmine.Env.describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:892:15)
+    at describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:652:27)
+    at Object.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:1:63)
+At async task:
+      ScriptTimeoutError: timeout: Timed out receiving message from renderer: 600.000
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 600.93 seconds
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+    at new bot.Error (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\error.js:109:18)
+    at Object.bot.response.checkResponse (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\response.js:106:9)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:276:20
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1178:15
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at notify (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:428:12)
+    at notifyAll (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:397:7)
+    at resolve (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:375:7)
+    at fulfill (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:493:5)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1465:10
+==== async task ====
+WebElement.sendKeys([object Object])
+    at webdriver.WebDriver.schedule (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:267:15)
+    at webdriver.WebElement.schedule_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:1609:23)
+    at webdriver.WebElement.sendKeys (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:1770:15)
+    at element.(anonymous function) [as sendKeys] (C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:599:32)
+    at C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:104:34
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1178:15
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at notify (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:428:12)
+    at notifyAll (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:397:7)
+==== async task ====
+WebDriver.navigate().to(http://localhost/#/)
+    at webdriver.WebDriver.schedule (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:267:15)
+    at webdriver.WebDriver.Navigation.to (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:914:23)
+    at webdriver.WebDriver.get (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:603:26)
+    at Login (C:\Projects\cloud-library\dev\protractor\support\Login.js:20:20)
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:4:9)
+    at flow.execute.then.e.stack (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:36:14)
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at webdriver.promise.ControlFlow.runEventLoop_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1463:8)
+==== async task ====
+asynchronous test function
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:35:26)
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\async-callback.js:45:37)
+    at jasmine.Block.execute (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:1168:17)
+    at jasmine.Queue.next_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2200:31)
+    at jasmine.Queue.start (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2153:8)
+    at jasmine.Spec.execute (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2481:14)
+    at jasmine.Queue.next_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2200:31)
+    at onComplete (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2196:18)
+    at jasmine.Spec.finish (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2455:5)
+
+  14) smoke test -- shop tab Shop Items
+   Message:
+     timeout: timed out after 300000 msec waiting for spec to complete
+   Stacktrace:
+     undefined
+
+  15) smoke test -- shop tab Shop save and load (with "searchProperties" using mediaTypeMP3)
+   Message:
+     timeout: timed out after 300000 msec waiting for spec to complete
+   Stacktrace:
+     undefined
+
+  16) smoke test -- shop tab Shop Items
+   Message:
+     UnknownError: unknown error: cannot determine loading status
+from timeout: Timed out receiving message from renderer: 600.000
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1200.06 seconds
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+   Stacktrace:
+     Error
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:3:5)
+    at jasmine.Env.describe_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:907:21)
+    at jasmine.Env.describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:892:15)
+    at describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:652:27)
+    at Object.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:1:63)
+At async task:
+      UnknownError: unknown error: cannot determine loading status
+from timeout: Timed out receiving message from renderer: 600.000
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1200.06 seconds
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+    at new bot.Error (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\error.js:109:18)
+    at Object.bot.response.checkResponse (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\response.js:106:9)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:276:20
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1178:15
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at notify (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:428:12)
+    at notifyAll (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:397:7)
+    at resolve (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:375:7)
+    at fulfill (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:493:5)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1465:10
+==== async task ====
+WebDriver.navigate().to(http://localhost/#/)
+    at webdriver.WebDriver.schedule (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:267:15)
+    at webdriver.WebDriver.Navigation.to (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:914:23)
+    at webdriver.WebDriver.get (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:603:26)
+    at Login (C:\Projects\cloud-library\dev\protractor\support\Login.js:20:20)
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:4:9)
+    at flow.execute.then.e.stack (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:36:14)
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at webdriver.promise.ControlFlow.runEventLoop_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1463:8)
+==== async task ====
+WebDriver.navigate().to(http://localhost/#/)
+    at webdriver.WebDriver.schedule (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:267:15)
+    at webdriver.WebDriver.Navigation.to (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:914:23)
+    at webdriver.WebDriver.get (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:603:26)
+    at Login (C:\Projects\cloud-library\dev\protractor\support\Login.js:20:20)
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:4:9)
+    at flow.execute.then.e.stack (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:36:14)
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at webdriver.promise.ControlFlow.runEventLoop_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1463:8)
+==== async task ====
+asynchronous test function
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:35:26)
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\async-callback.js:45:37)
+    at jasmine.Block.execute (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:1168:17)
+    at jasmine.Queue.next_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2200:31)
+    at jasmine.Queue.start (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2153:8)
+    at jasmine.Spec.execute (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2481:14)
+    at jasmine.Queue.next_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2200:31)
+    at onComplete (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2196:18)
+    at jasmine.Spec.finish (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2455:5)
+
+  17) smoke test -- shop tab Shop Items
+   Message:
+     timeout: timed out after 300000 msec waiting for spec to complete
+   Stacktrace:
+     undefined
+
+  18) smoke test -- shop tab Shop save and load (with "searchProperties" using mediaTypeebooks)
+   Message:
+     UnknownError: unknown error: cannot determine loading status
+from timeout: Timed out receiving message from renderer: 600.000
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 600.04 seconds
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+   Stacktrace:
+     Error
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:3:5)
+    at jasmine.Env.describe_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:907:21)
+    at jasmine.Env.describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:892:15)
+    at describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:652:27)
+    at Object.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:1:63)
+At async task:
+      UnknownError: unknown error: cannot determine loading status
+from timeout: Timed out receiving message from renderer: 600.000
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 600.04 seconds
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+    at new bot.Error (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\error.js:109:18)
+    at Object.bot.response.checkResponse (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\response.js:106:9)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:276:20
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1178:15
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at notify (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:428:12)
+    at notifyAll (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:397:7)
+    at resolve (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:375:7)
+    at fulfill (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:493:5)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1465:10
+==== async task ====
+WebDriver.executeScript()
+    at webdriver.WebDriver.schedule (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:267:15)
+    at webdriver.WebDriver.executeAsyncScript (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:492:15)
+    at Protractor.waitForAngular (C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:554:22)
+    at Protractor.findElement (C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:743:8)
+    at using (C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:60:19)
+    at Object.elementFinder.(anonymous function) [as click] (C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:103:16)
+    at Object.fillInFields.mediaTypeSearch_MP3.configure (C:\Projects\cloud-library\dev\protractor\PageObjects\ShopPage.js:69:67)
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:39:20)
+    at flow.execute.then.e.stack (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:36:14)
+==== async task ====
+WebDriver.navigate().to(http://localhost/#/)
+    at webdriver.WebDriver.schedule (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:267:15)
+    at webdriver.WebDriver.Navigation.to (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:914:23)
+    at webdriver.WebDriver.get (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:603:26)
+    at Login (C:\Projects\cloud-library\dev\protractor\support\Login.js:20:20)
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:4:9)
+    at flow.execute.then.e.stack (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:36:14)
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at webdriver.promise.ControlFlow.runEventLoop_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1463:8)
+==== async task ====
+asynchronous test function
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:35:26)
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\async-callback.js:45:37)
+    at jasmine.Block.execute (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:1168:17)
+    at jasmine.Queue.next_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2200:31)
+    at jasmine.Queue.start (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2153:8)
+    at jasmine.Spec.execute (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2481:14)
+    at jasmine.Queue.next_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2200:31)
+    at onComplete (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2196:18)
+    at jasmine.Spec.finish (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2455:5)
+
+  19) smoke test -- shop tab Shop save and load (with "searchProperties" using mediaTypeebooks)
+   Message:
+     timeout: timed out after 300000 msec waiting for spec to complete
+   Stacktrace:
+     undefined
+
+  20) smoke test -- shop tab Shop Items
+   Message:
+     UnknownError: unknown error: cannot determine loading status
+from timeout: Timed out receiving message from renderer: 600.000
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 600.03 seconds
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+   Stacktrace:
+     Error
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:3:5)
+    at jasmine.Env.describe_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:907:21)
+    at jasmine.Env.describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:892:15)
+    at describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:652:27)
+    at Object.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:1:63)
+At async task:
+      UnknownError: unknown error: cannot determine loading status
+from timeout: Timed out receiving message from renderer: 600.000
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 600.03 seconds
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+    at new bot.Error (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\error.js:109:18)
+    at Object.bot.response.checkResponse (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\response.js:106:9)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:276:20
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1178:15
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at notify (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:428:12)
+    at notifyAll (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:397:7)
+    at resolve (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:375:7)
+    at fulfill (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:493:5)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1465:10
+==== async task ====
+WebDriver.navigate().to(http://localhost/#/)
+    at webdriver.WebDriver.schedule (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:267:15)
+    at webdriver.WebDriver.Navigation.to (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:914:23)
+    at webdriver.WebDriver.get (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:603:26)
+    at Login (C:\Projects\cloud-library\dev\protractor\support\Login.js:20:20)
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:4:9)
+    at flow.execute.then.e.stack (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:36:14)
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at webdriver.promise.ControlFlow.runEventLoop_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1463:8)
+==== async task ====
+WebDriver.navigate().to(http://localhost/#/)
+    at webdriver.WebDriver.schedule (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:267:15)
+    at webdriver.WebDriver.Navigation.to (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:914:23)
+    at webdriver.WebDriver.get (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:603:26)
+    at Login (C:\Projects\cloud-library\dev\protractor\support\Login.js:20:20)
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:4:9)
+    at flow.execute.then.e.stack (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:36:14)
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at webdriver.promise.ControlFlow.runEventLoop_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1463:8)
+==== async task ====
+asynchronous test function
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:35:26)
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\async-callback.js:45:37)
+    at jasmine.Block.execute (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:1168:17)
+    at jasmine.Queue.next_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2200:31)
+    at jasmine.Queue.start (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2153:8)
+    at jasmine.Spec.execute (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2481:14)
+    at jasmine.Queue.next_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2200:31)
+    at onComplete (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2196:18)
+    at jasmine.Spec.finish (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2455:5)
+
+  21) smoke test -- shop tab Shop Items
+   Message:
+     timeout: timed out after 300000 msec waiting for spec to complete
+   Stacktrace:
+     undefined
+
+  22) smoke test -- shop tab Shop save and load (with "searchProperties" using mediaTypepdf)
+   Message:
+     UnknownError: unknown error: cannot determine loading status
+from timeout: Timed out receiving message from renderer: 600.000
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 600.03 seconds
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+   Stacktrace:
+     Error
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:3:5)
+    at jasmine.Env.describe_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:907:21)
+    at jasmine.Env.describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:892:15)
+    at describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:652:27)
+    at Object.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:1:63)
+At async task:
+      UnknownError: unknown error: cannot determine loading status
+from timeout: Timed out receiving message from renderer: 600.000
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 600.03 seconds
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+    at new bot.Error (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\error.js:109:18)
+    at Object.bot.response.checkResponse (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\response.js:106:9)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:276:20
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1178:15
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at notify (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:428:12)
+    at notifyAll (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:397:7)
+    at resolve (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:375:7)
+    at fulfill (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:493:5)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1465:10
+==== async task ====
+WebDriver.navigate().to(http://localhost/#/)
+    at webdriver.WebDriver.schedule (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:267:15)
+    at webdriver.WebDriver.Navigation.to (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:914:23)
+    at webdriver.WebDriver.get (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:603:26)
+    at Login (C:\Projects\cloud-library\dev\protractor\support\Login.js:20:20)
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:4:9)
+    at flow.execute.then.e.stack (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:36:14)
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at webdriver.promise.ControlFlow.runEventLoop_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1463:8)
+==== async task ====
+WebDriver.navigate().to(http://localhost/#/)
+    at webdriver.WebDriver.schedule (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:267:15)
+    at webdriver.WebDriver.Navigation.to (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:914:23)
+    at webdriver.WebDriver.get (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:603:26)
+    at Login (C:\Projects\cloud-library\dev\protractor\support\Login.js:20:20)
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:4:9)
+    at flow.execute.then.e.stack (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:36:14)
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at webdriver.promise.ControlFlow.runEventLoop_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1463:8)
+==== async task ====
+asynchronous test function
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:35:26)
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\async-callback.js:45:37)
+    at jasmine.Block.execute (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:1168:17)
+    at jasmine.Queue.next_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2200:31)
+    at jasmine.Queue.start (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2153:8)
+    at jasmine.Spec.execute (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2481:14)
+    at jasmine.Queue.next_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2200:31)
+    at onComplete (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2196:18)
+    at jasmine.Spec.finish (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2455:5)
+
+  23) smoke test -- shop tab Shop save and load (with "searchProperties" using mediaTypepdf)
+   Message:
+     timeout: timed out after 300000 msec waiting for spec to complete
+   Stacktrace:
+     undefined
+
+  24) smoke test -- shop tab Shop Items
+   Message:
+     UnknownError: unknown error: cannot determine loading status
+from timeout: Timed out receiving message from renderer: 600.000
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 600.03 seconds
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+   Stacktrace:
+     Error
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:3:5)
+    at jasmine.Env.describe_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:907:21)
+    at jasmine.Env.describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:892:15)
+    at describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:652:27)
+    at Object.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:1:63)
+At async task:
+      UnknownError: unknown error: cannot determine loading status
+from timeout: Timed out receiving message from renderer: 600.000
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 600.03 seconds
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+    at new bot.Error (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\error.js:109:18)
+    at Object.bot.response.checkResponse (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\response.js:106:9)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:276:20
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1178:15
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at notify (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:428:12)
+    at notifyAll (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:397:7)
+    at resolve (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:375:7)
+    at fulfill (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:493:5)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1465:10
+==== async task ====
+WebDriver.executeScript()
+    at webdriver.WebDriver.schedule (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:267:15)
+    at webdriver.WebDriver.executeAsyncScript (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:492:15)
+    at Protractor.waitForAngular (C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:554:22)
+    at Protractor.findElement (C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:743:8)
+    at using (C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:60:19)
+    at Object.elementFinder.(anonymous function) [as click] (C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:103:16)
+    at Object.fillInFields.mediaTypeSearch_ebooks.configure (C:\Projects\cloud-library\dev\protractor\PageObjects\ShopPage.js:77:67)
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:39:20)
+    at flow.execute.then.e.stack (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:36:14)
+==== async task ====
+WebDriver.navigate().to(http://localhost/#/)
+    at webdriver.WebDriver.schedule (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:267:15)
+    at webdriver.WebDriver.Navigation.to (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:914:23)
+    at webdriver.WebDriver.get (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:603:26)
+    at Login (C:\Projects\cloud-library\dev\protractor\support\Login.js:20:20)
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:4:9)
+    at flow.execute.then.e.stack (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:36:14)
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at webdriver.promise.ControlFlow.runEventLoop_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1463:8)
+==== async task ====
+asynchronous test function
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:35:26)
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\async-callback.js:45:37)
+    at jasmine.Block.execute (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:1168:17)
+    at jasmine.Queue.next_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2200:31)
+    at jasmine.Queue.start (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2153:8)
+    at jasmine.Spec.execute (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2481:14)
+    at jasmine.Queue.next_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2200:31)
+    at onComplete (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2196:18)
+    at jasmine.Spec.finish (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2455:5)
+
+  25) smoke test -- shop tab Shop Items
+   Message:
+     timeout: timed out after 300000 msec waiting for spec to complete
+   Stacktrace:
+     undefined
+
+  26) smoke test -- shop tab Shop save and load (with "searchProperties" using mediaTypeEPUB)
+   Message:
+     UnknownError: unknown error: cannot determine loading status
+from timeout: Timed out receiving message from renderer: 600.000
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 600.03 seconds
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+   Stacktrace:
+     Error
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:3:5)
+    at jasmine.Env.describe_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:907:21)
+    at jasmine.Env.describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:892:15)
+    at describe (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:652:27)
+    at Object.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:1:63)
+At async task:
+      UnknownError: unknown error: cannot determine loading status
+from timeout: Timed out receiving message from renderer: 600.000
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 600.03 seconds
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+    at new bot.Error (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\error.js:109:18)
+    at Object.bot.response.checkResponse (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\response.js:106:9)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:276:20
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1178:15
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at notify (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:428:12)
+    at notifyAll (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:397:7)
+    at resolve (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:375:7)
+    at fulfill (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:493:5)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1465:10
+==== async task ====
+WebDriver.navigate().to(http://localhost/#/)
+    at webdriver.WebDriver.schedule (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:267:15)
+    at webdriver.WebDriver.Navigation.to (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:914:23)
+    at webdriver.WebDriver.get (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:603:26)
+    at Login (C:\Projects\cloud-library\dev\protractor\support\Login.js:20:20)
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:4:9)
+    at flow.execute.then.e.stack (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:36:14)
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at webdriver.promise.ControlFlow.runEventLoop_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1463:8)
+==== async task ====
+WebDriver.navigate().to(http://localhost/#/)
+    at webdriver.WebDriver.schedule (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:267:15)
+    at webdriver.WebDriver.Navigation.to (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:914:23)
+    at webdriver.WebDriver.get (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:603:26)
+    at Login (C:\Projects\cloud-library\dev\protractor\support\Login.js:20:20)
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:4:9)
+    at flow.execute.then.e.stack (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:36:14)
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at webdriver.promise.ControlFlow.runEventLoop_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1463:8)
+==== async task ====
+asynchronous test function
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:35:26)
+    at null.<anonymous> (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\async-callback.js:45:37)
+    at jasmine.Block.execute (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:1168:17)
+    at jasmine.Queue.next_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2200:31)
+    at jasmine.Queue.start (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2153:8)
+    at jasmine.Spec.execute (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2481:14)
+    at jasmine.Queue.next_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2200:31)
+    at onComplete (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2196:18)
+    at jasmine.Spec.finish (C:\Projects\cloud-library\node_modules\protractor\node_modules\minijasminenode\lib\jasmine-1.3.1.js:2455:5)
+
+  27) smoke test -- shop tab Shop save and load (with "searchProperties" using mediaTypeEPUB)
+   Message:
+     timeout: timed out after 300000 msec waiting for spec to complete
+   Stacktrace:
+     undefined
+
+Finished in 8702.726 seconds
+122 tests, 685 assertions, 27 failures
+
+
+C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1702
+      throw error;
+            ^
+UnknownError: unknown error: cannot determine loading status
+from timeout: Timed out receiving message from renderer: 600.000
+  (Session info: chrome=33.0.1750.117)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 600.03 seconds
+Build info: version: '2.40.0', revision: 'fbe29a9', time: '2014-02-19 20:54:28'
+System info: host: 'W0150473', ip: '169.11.232.66', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: 6ac9462bf2977efa5224ce79532e175b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\A477MZZ\AppData\Local\Temp\scoped_dir6380_23476}, rotatable=false, locationContextEnabled=true, version=33.0.1750.117, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+    at new bot.Error (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\error.js:109:18)
+    at Object.bot.response.checkResponse (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\atoms\response.js:106:9)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:276:20
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\goog\base.js:1178:15
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+    at notify (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:428:12)
+    at notifyAll (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:397:7)
+    at resolve (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:375:7)
+    at fulfill (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:493:5)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1465:10
+==== async task ====
+WebDriver.executeScript()
+    at webdriver.WebDriver.schedule (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:267:15)
+    at webdriver.WebDriver.executeAsyncScript (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:492:15)
+    at Protractor.waitForAngular (C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:554:22)
+    at Protractor.findElement (C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:743:8)
+    at Object.elementFinder.(anonymous function) [as click] (C:\Projects\cloud-library\node_modules\protractor\lib\protractor.js:103:24)
+    at deleteSearch (C:\Projects\cloud-library\dev\protractor\CommonObjects\SaveSearch.js:44:34)
+    at null.<anonymous> (C:\Projects\cloud-library\dev\protractor\specs\SmokeTests\Shop_spec.js:54:20)
+    at flow.execute.then.e.stack (C:\Projects\cloud-library\node_modules\protractor\jasminewd\index.js:36:14)
+    at webdriver.promise.ControlFlow.runInNewFrame_ (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\promise.js:1598:20)
+==== async task ====
+WebDriver.quit()
+    at webdriver.WebDriver.schedule (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:267:15)
+    at webdriver.WebDriver.quit (C:\Projects\cloud-library\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver\webdriver.js:331:21)
+    at HostedDriverProvider.teardownEnv (C:\Projects\cloud-library\node_modules\protractor\lib\driverProviders\hosted.dp.js:38:16)
+    at driverprovider_.setupEnv.then.then.then.then.passed (C:\Projects\cloud-library\node_modules\protractor\lib\runner.js:381:35)
+    at _fulfilled (C:\Projects\cloud-library\node_modules\protractor\node_modules\q\q.js:797:54)
+    at self.promiseDispatch.done (C:\Projects\cloud-library\node_modules\protractor\node_modules\q\q.js:826:30)
+    at Promise.promise.promiseDispatch (C:\Projects\cloud-library\node_modules\protractor\node_modules\q\q.js:759:13)
+    at C:\Projects\cloud-library\node_modules\protractor\node_modules\q\q.js:573:44
+    at flush (C:\Projects\cloud-library\node_modules\protractor\node_modules\q\q.js:108:17)
+[launcher] Runner Process Exited With Error Code: 8
+
+Process finished with exit code 1
