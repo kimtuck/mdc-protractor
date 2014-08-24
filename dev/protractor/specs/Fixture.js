@@ -1,3 +1,3 @@
-beforeEach(function() {
+xbeforeEach(function() {
     LoginPage.login();
 });

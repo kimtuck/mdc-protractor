@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e57b5ee2-9831-4016-a756-fc32af65199b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/protractor/specs/Purchase_spec.js" />
+    <list default="true" id="e57b5ee2-9831-4016-a756-fc32af65199b" name="Default" comment="seven -- dsl&#10;">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/protractor/specs/Fixture.js" afterPath="$PROJECT_DIR$/dev/protractor/specs/Fixture.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/protractor/specs/login_spec.js" afterPath="$PROJECT_DIR$/dev/protractor/specs/login_spec.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mdc-protractor.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="e57b5ee2-9831-4016-a756-fc32af65199b" time="1407290291188" ignored="false" />
-    <file path="/login_spec.js" changelist="e57b5ee2-9831-4016-a756-fc32af65199b" time="1407288720542" ignored="false" />
+    <file path="/Dummy.txt" changelist="e57b5ee2-9831-4016-a756-fc32af65199b" time="1408905835129" ignored="false" />
+    <file path="/login_spec.js" changelist="e57b5ee2-9831-4016-a756-fc32af65199b" time="1408908335022" ignored="false" />
     <file path="/LoginPage.js" changelist="e57b5ee2-9831-4016-a756-fc32af65199b" time="1407288676761" ignored="false" />
     <file path="/User.js" changelist="e57b5ee2-9831-4016-a756-fc32af65199b" time="1407288626075" ignored="false" />
-    <file path="/Fixture.js" changelist="e57b5ee2-9831-4016-a756-fc32af65199b" time="1407288828365" ignored="false" />
-    <file path="/shop_spec.js" changelist="e57b5ee2-9831-4016-a756-fc32af65199b" time="1407290051010" ignored="false" />
-    <file path="/a.dummy" changelist="e57b5ee2-9831-4016-a756-fc32af65199b" time="1407289737529" ignored="false" />
+    <file path="/Fixture.js" changelist="e57b5ee2-9831-4016-a756-fc32af65199b" time="1408908182160" ignored="false" />
+    <file path="/shop_spec.js" changelist="e57b5ee2-9831-4016-a756-fc32af65199b" time="1408908172668" ignored="false" />
+    <file path="/a.dummy" changelist="e57b5ee2-9831-4016-a756-fc32af65199b" time="1408906175289" ignored="false" />
+    <file path="/Purchase_spec.js" changelist="e57b5ee2-9831-4016-a756-fc32af65199b" time="1408908176726" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +38,38 @@
       <file leaf-file-name="login_spec.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dev/protractor/specs/login_spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="11" selection-start="0" selection-end="206" vertical-scroll-proportion="0.0">
+            <state line="1" column="0" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/protractor/node_modules/jasminewd/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="87" column="57" selection-start="2646" selection-end="2646" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webdriver.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver/webdriver.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="276" column="19" selection-start="10420" selection-end="10420" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="promise.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver/promise.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1517" column="41" selection-start="51283" selection-end="51283" vertical-scroll-proportion="0.0">
               <folding>
-                <marker date="1407288882432" expanded="true" signature="38:203" placeholder="{...}" />
+                <element signature="e#51283#52953#0" expanded="false" />
+                <element signature="e#51400#52458#0" expanded="false" />
+                <element signature="e#51707#51820#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -47,7 +78,7 @@
       <file leaf-file-name="Fixture.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dev/protractor/specs/Fixture.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0">
+            <state line="2" column="3" selection-start="50" selection-end="51" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -57,17 +88,6 @@
         <entry file="file://$PROJECT_DIR$/dev/protractor/Support/User.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="3" column="0" selection-start="58" selection-end="58" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1407288783319" expanded="true" signature="7:59" placeholder="{&quot;login&quot;: 'uat10mn@yahoo.com'...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginPage.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dev/protractor/PageObjects/LoginPage.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="2" selection-start="414" selection-end="414" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -91,19 +111,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shop_spec.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="shop_spec.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dev/protractor/specs/shop_spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="10" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Purchase_spec.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Purchase_spec.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dev/protractor/specs/Purchase_spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="92" selection-end="92" vertical-scroll-proportion="0.06920415">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -129,20 +149,20 @@
       <list>
         <option value="$PROJECT_DIR$/dev/protractor/specs/Login_spec.js" />
         <option value="$PROJECT_DIR$/dev/protractor/Support/User.js" />
-        <option value="$PROJECT_DIR$/dev/protractor/specs/Fixture.js" />
-        <option value="$PROJECT_DIR$/dev/protractor/specs/login_spec.js" />
         <option value="$PROJECT_DIR$/dev/protractor/PageObjects/LoginPage.js" />
         <option value="$PROJECT_DIR$/dev/protractor/conf.js" />
-        <option value="$PROJECT_DIR$/dev/protractor/specs/shop_spec.js" />
+        <option value="$PROJECT_DIR$/dev/protractor/specs/Fixture.js" />
         <option value="$PROJECT_DIR$/dev/protractor/specs/Purchase_spec.js" />
+        <option value="$PROJECT_DIR$/dev/protractor/specs/login_spec.js" />
+        <option value="$PROJECT_DIR$/dev/protractor/specs/shop_spec.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1098" />
+    <option name="x" value="252" />
+    <option name="y" value="40" />
+    <option name="width" value="1404" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -170,7 +190,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -225,28 +244,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Support" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mdc-protractor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mdc-protractor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="protractor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="specs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -275,6 +272,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -291,16 +289,16 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="244" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1152" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1152" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1152" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="244" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="244" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="Node.js.Protractor">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -382,27 +380,31 @@
       <created>1407290298212</created>
       <updated>1407290298212</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="seven -- dsl&#10;">
+      <created>1407290547067</created>
+      <updated>1407290547068</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
+    <frame x="252" y="40" width="1404" height="1050" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33045357" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18555614" sideWeight="0.65442765" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25825384" sideWeight="0.52733487" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34557235" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.47266516" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297414" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33045357" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -450,7 +452,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="six -- dsl" />
+    <option name="LAST_COMMIT_MESSAGE" value="seven -- dsl&#10;" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -470,27 +472,12 @@
     <MESSAGE value="four -- page objects" />
     <MESSAGE value="five -- dsl" />
     <MESSAGE value="six -- dsl" />
+    <MESSAGE value="seven -- dsl&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dev/protractor/specs/login_spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1407288882432" expanded="true" signature="38:203" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/protractor/PageObjects/LoginPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="29" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dev/protractor/conf.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="25" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
@@ -501,9 +488,7 @@
     <entry file="file://$PROJECT_DIR$/dev/protractor/specs/login_spec.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1407288882432" expanded="true" signature="38:203" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -517,54 +502,13 @@
     <entry file="file://$PROJECT_DIR$/dev/protractor/specs/login_spec.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1407288882432" expanded="true" signature="38:203" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dev/protractor/conf.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="0" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/protractor/Support/User.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="58" selection-end="58" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1407288783319" expanded="true" signature="7:59" placeholder="{&quot;login&quot;: 'uat10mn@yahoo.com'...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/protractor/specs/Fixture.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/protractor/PageObjects/LoginPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="2" selection-start="414" selection-end="414" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/protractor/specs/login_spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="11" selection-start="0" selection-end="206" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1407288882432" expanded="true" signature="38:203" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/protractor/PageObjects/NavigationTabs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -576,16 +520,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/protractor/specs/shop_spec.js">
+    <entry file="file://$PROJECT_DIR$/dev/protractor/Support/User.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="10" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0">
+        <state line="3" column="0" selection-start="58" selection-end="58" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/protractor/PageObjects/LoginPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="232" selection-end="274" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/protractor/PageObjects/NavigationTabs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/protractor/specs/Fixture.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="3" selection-start="50" selection-end="51" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver/webdriver.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="276" column="19" selection-start="10420" selection-end="10420" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver/promise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1517" column="41" selection-start="51283" selection-end="51283" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#51283#52953#0" expanded="false" />
+            <element signature="e#51400#52458#0" expanded="false" />
+            <element signature="e#51707#51820#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/protractor/node_modules/jasminewd/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="57" selection-start="2646" selection-end="2646" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dev/protractor/specs/Purchase_spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="92" selection-end="92" vertical-scroll-proportion="0.06920415">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/protractor/specs/login_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/protractor/specs/shop_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
