@@ -25,7 +25,7 @@ _NavigationTabs = function() {
     this.CollectionTab.url='collection';
     this.CollectionTab.label='Collection';
 
-    this.PurchaseOrdersTab=this.NavBar.element(by.css('li:nth-child(14) a'));
+    this.PurchaseOrdersTab=this.NavBar.element(by.css('li:nth-child(15) a'));
     this.PurchaseOrdersTab.url='purchase-orders';
     this.PurchaseOrdersTab.label='POs';
 
