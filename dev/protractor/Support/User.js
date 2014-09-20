@@ -1,4 +1,4 @@
 user = {
-login: 'uat10mn@yahoo.com',
-    pass: '3msuper#'
+login: 'robert.hanson@solutiondesign.com',
+    pass: 'Treasure2012'
 }
