@@ -1,0 +1,364 @@
+<!DOCTYPE html><html lang="en-US" ng-app="ngView" ng-controller="LibraryAdminController" xmlns="http://www.w3.org/1999/html" class="ng-scope"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-start{clip:rect(0,auto,auto,0);-ms-zoom:1.0001;}.ng-animate-active{clip:rect(-1px,auto,auto,0);-ms-zoom:1;}</style>
+
+<style type="text/css">
+    [ng\:cloak], [ng-cloak], .ng-cloak {
+        display: none;
+    }
+</style>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<!-- <meta charset="UTF-8"> -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" /><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-1.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"b59724294b","applicationID":"2852833","transactionName":"b1FTZhcFC0FVBRANWVYbZEAMSwRAVxMXS1pZTV5HEUsMXFADHEpeTFld","queueTime":0,"applicationTime":1,"ttGuid":"1BE7F3446750AFD6","agent":"js-agent.newrelic.com/nr-412.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwYGVlNACgsFVllRBA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o&lt;n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&amp;&amp;r.length||0,s=n[i]||(n[i]={}),u=0;a&gt;u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){try{u?u-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(d){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(c){"stack"in c&amp;&amp;(t(1),t(2),"addEventListener"in window&amp;&amp;t(3),window.XMLHttpRequest&amp;&amp;XMLHttpRequest.prototype&amp;&amp;XMLHttpRequest.prototype.addEventListener&amp;&amp;t(4),s=!0)}i.on("fn-start",function(){s&amp;&amp;(u+=1)}),i.on("fn-err",function(t,e,r){s&amp;&amp;(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&amp;&amp;!this.thrown&amp;&amp;u&gt;0&amp;&amp;(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&amp;&amp;!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&amp;&amp;e(i);for(var a=XMLHttpRequest.prototype;a&amp;&amp;!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&amp;&amp;e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&amp;&amp;e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&amp;&amp;r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&amp;&amp;(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&amp;&amp;(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&amp;&amp;t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&amp;&amp;t instanceof ArrayBuffer&amp;&amp;t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&amp;&amp;t instanceof Blob&amp;&amp;t.size)return t.size;if("undefined"!=typeof FormData&amp;&amp;t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u&gt;i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,c="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,d=e(c);if(d&amp;&amp;(r.rxSize=d),this.sameOrigin){var f=t.getResponseHeader("X-NewRelic-App-Data");f&amp;&amp;(n.cat=f.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,c=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&amp;&amp;"xpid"in NREUM.loader_config&amp;&amp;this.sameOrigin&amp;&amp;e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&amp;&amp;o){var c=e(o);c&amp;&amp;(r.txSize=c)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&amp;&amp;(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&amp;&amp;(i.onloadCalled||"function"!=typeof n.onload))&amp;&amp;i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var d=0;u&gt;d;d++)n.addEventListener(s[d],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&amp;&amp;"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+c(t)+!!e;this.xhrGuids&amp;&amp;!this.xhrGuids[n]&amp;&amp;(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+c(t)+!!e;this.xhrGuids&amp;&amp;this.xhrGuids[n]&amp;&amp;(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&amp;&amp;"load"===t[0]&amp;&amp;a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&amp;&amp;"load"===t[0]&amp;&amp;a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&amp;&amp;("onload"===n&amp;&amp;(this.onload=!0),("load"===(t[0]&amp;&amp;t[0].type)||this.onload)&amp;&amp;(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&amp;&amp;a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&amp;&amp;XMLHttpRequest.prototype&amp;&amp;XMLHttpRequest.prototype.addEventListener&amp;&amp;!/CriOS/.test(navigator.userAgent)&amp;&amp;e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&amp;&amp;o[1]&amp;&amp;(r.port=o[1].split("/")[0].split(":")[1]),r.port&amp;&amp;"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&amp;&amp;(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&amp;&amp;e.port===n.port&amp;&amp;e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&amp;&amp;"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&amp;&amp;t.agent&amp;&amp;t.licenseKey&amp;&amp;t.applicationID&amp;&amp;u&amp;&amp;u.body){p.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&amp;&amp;o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,c="addEventListener",d="attachEvent",f=(""+location).split("?")[0],p=e.exports={offset:i(),origin:f,features:[]};u[c]?(u[c]("DOMContentLoaded",o,!1),s[c]("load",n,!1)):(u[d]("onreadystatechange",r),s[d]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&amp;&amp;(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0&gt;o?0:o);++r&lt;o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),c=this,d=r&amp;&amp;r(a,c)||{}}catch(f){i([f,"",[a,c,s],d])}o(e+"start",[a,c,s],d);try{return n=t.apply(c,a)}catch(p){throw o(e+"err",[a,c,p],d),p}finally{o(e+"end",[a,c,n],d)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,c="-"===r.charAt(0);for(u=0;u&lt;e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,c?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&amp;&amp;"function"==typeof t&amp;&amp;t.apply&amp;&amp;!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+
+<!-- Styles -->
+<link rel="stylesheet" type="text/css" href="vendor/animatecss/animate-custom.css" />
+<link rel="stylesheet" type="text/css" href="vendor/angular-ui-0.4.0/angular-ui.css" />
+<link rel="stylesheet" type="text/css" href="vendor/bootstrap/bootstrap.css" />
+<link rel="stylesheet" href="vendor/fontawesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="vendor/select2-3.3.2/select2.css" />
+<link rel="stylesheet" type="text/css" href="vendor/bootstrap-datepicker/css/datepicker.css" />
+<link rel="stylesheet" type="text/css" href="vendor/AngularJS-Toaster/toaster.css" />
+
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+<!-- End styles -->
+
+<!-- External JavaScript libraries -->
+<script src="vendor/lodash/lodash.js"></script>
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/jquery-scrollTo/jquery.scrollTo.js"></script>
+<script src="vendor/jquery-ui-1.10.2.custom/js/jquery-ui-1.10.2.custom.js"></script>
+<script src="vendor/jQuery-ui-touchpunch/jquery.ui.touch-punch.min.js"></script>
+<script type="text/javascript" src="vendor/bootstrap/bootstrap.js"></script>
+<script src="vendor/bootstrap-datepicker/js/bootstrap-datepicker.js"></script>
+<script src="js/locales/bootstrap-datepicker.en.js"></script>
+<script src="js/locales/bootstrap-datepicker.en-CA.js"></script>
+<script src="vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.fr.js"></script>
+<script type="text/javascript" src="vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.zh-CN.js" charset="UTF-8"></script>
+
+<script src="vendor/globalize/lib/globalize.js"></script>
+<script src="vendor/globalize/lib/cultures/globalize.cultures.js"></script>
+
+
+<script src="vendor/tinycolor/tinycolor.min.js"></script>
+<script type="text/javascript" src="vendor/select2-3.3.2/select2.js"></script>
+<script src="vendor/json2/json2.js"></script>
+<script src="vendor/tinymce/js/tinymce/tinymce.min.js"></script>
+
+<script src="vendor/Angular-1.2.0/angular.js"></script>
+<script src="vendor/Angular-1.2.0/angular-route.js"></script>
+<script src="vendor/Angular-1.2.0/angular-resource.js"></script>
+<script src="vendor/Angular-1.2.0/angular-sanitize.js"></script>
+<script src="vendor/angular-strap/dist/angular-strap.js"></script>
+<script src="vendor/AngularJS-Toaster/toaster.js"></script>
+<script src="vendor/Angular-1.2.0/angular-animate.min.js"></script>
+
+<script src="vendor/bindonce-master/bindonce.js"></script>
+
+<script type="text/javascript" src="vendor/angular-ui-0.4.0/angular-ui.js"></script>
+<script type="text/javascript" src="vendor/angular-ui-0.4.0/angular-ui-ieshiv.min.js"></script>
+<script type="text/javascript" src="vendor/angular-ui-0.4.0/angular-ui-modal.js"></script>
+<script src="vendor/ngUpload/ng-upload.js"></script>
+<script src="vendor/jscache/cache.js"></script>
+<!-- End external JavaScript libraries -->
+
+
+<!-- Application JavaScript files -->
+<script type="text/javascript" src="mmm.min-master-UI-1.15.183.0.js"></script>
+
+<!-- End application JavaScript files -->
+
+<title ng-bind-template="3M Content Acquisition Tool - " class="ng-binding">3M Content Acquisition Tool - </title>
+</head>
+<body ng-controller="BodyController" class="ng-scope">
+
+<div class="header-container">
+    <div class="container">
+        <div class="row" style="min-height: 48px;">
+            <div ng-class="{true:'span8',false:'span10'}[hasLibraryLabel()]" class="span10">
+                <img src="img/3m.png" />
+
+                <span class="product-header">Content<br />Acquisition<br />Tool</span>
+
+                <ul class="nav nav-tabs ng-hide" ng-show="UserService.user &amp;&amp; getPath() != '/'">
+                    <!-- ngRepeat: page in ROUTES --><li ng-repeat="page in ROUTES" ng-class="getClass(page)" class="ng-scope active">
+                        <a href="#/" ng-show="page.route.tab.tabLabel &amp;&amp; isActiveTabGroup(page.route.tab.tabGroup) &amp;&amp; checkAccess(page.route.tab)" class="ng-binding ng-hide"></a>
+                    </li><!-- end ngRepeat: page in ROUTES --><li ng-repeat="page in ROUTES" ng-class="getClass(page)" class="ng-scope">
+                        <a href="#/forgot-password" ng-show="page.route.tab.tabLabel &amp;&amp; isActiveTabGroup(page.route.tab.tabGroup) &amp;&amp; checkAccess(page.route.tab)" class="ng-binding ng-hide"></a>
+                    </li><!-- end ngRepeat: page in ROUTES --><li ng-repeat="page in ROUTES" ng-class="getClass(page)" class="ng-scope">
+                        <a href="#/password-reset" ng-show="page.route.tab.tabLabel &amp;&amp; isActiveTabGroup(page.route.tab.tabGroup) &amp;&amp; checkAccess(page.route.tab)" class="ng-binding ng-hide"></a>
+                    </li><!-- end ngRepeat: page in ROUTES --><li ng-repeat="page in ROUTES" ng-class="getClass(page)" class="ng-scope">
+                        <a href="#/set-initial-password" ng-show="page.route.tab.tabLabel &amp;&amp; isActiveTabGroup(page.route.tab.tabGroup) &amp;&amp; checkAccess(page.route.tab)" class="ng-binding ng-hide"></a>
+                    </li><!-- end ngRepeat: page in ROUTES --><li ng-repeat="page in ROUTES" ng-class="getClass(page)" class="ng-scope">
+                        <a href="#/landing" ng-show="page.route.tab.tabLabel &amp;&amp; isActiveTabGroup(page.route.tab.tabGroup) &amp;&amp; checkAccess(page.route.tab)" class="ng-binding ng-hide">Home</a>
+                    </li><!-- end ngRepeat: page in ROUTES --><li ng-repeat="page in ROUTES" ng-class="getClass(page)" class="ng-scope">
+                        <a href="#/featured-list-detail/" ng-show="page.route.tab.tabLabel &amp;&amp; isActiveTabGroup(page.route.tab.tabGroup) &amp;&amp; checkAccess(page.route.tab)" class="ng-binding ng-hide"></a>
+                    </li><!-- end ngRepeat: page in ROUTES --><li ng-repeat="page in ROUTES" ng-class="getClass(page)" class="ng-scope">
+                        <a href="#/shop" ng-show="page.route.tab.tabLabel &amp;&amp; isActiveTabGroup(page.route.tab.tabGroup) &amp;&amp; checkAccess(page.route.tab)" class="ng-binding ng-hide">Shop</a>
+                    </li><!-- end ngRepeat: page in ROUTES --><li ng-repeat="page in ROUTES" ng-class="getClass(page)" class="ng-scope">
+                        <a href="#/shop-by-eisbn" ng-show="page.route.tab.tabLabel &amp;&amp; isActiveTabGroup(page.route.tab.tabGroup) &amp;&amp; checkAccess(page.route.tab)" class="ng-binding ng-hide">Shop by eISBN</a>
+                    </li><!-- end ngRepeat: page in ROUTES --><li ng-repeat="page in ROUTES" ng-class="getClass(page)" class="ng-scope">
+                        <a href="#/shop-cart" ng-show="page.route.tab.tabLabel &amp;&amp; isActiveTabGroup(page.route.tab.tabGroup) &amp;&amp; checkAccess(page.route.tab)" class="ng-binding ng-hide">Carts</a>
+                    </li><!-- end ngRepeat: page in ROUTES --><li ng-repeat="page in ROUTES" ng-class="getClass(page)" class="ng-scope">
+                        <a href="#/buy-cart" ng-show="page.route.tab.tabLabel &amp;&amp; isActiveTabGroup(page.route.tab.tabGroup) &amp;&amp; checkAccess(page.route.tab)" class="ng-binding ng-hide"></a>
+                    </li><!-- end ngRepeat: page in ROUTES --><li ng-repeat="page in ROUTES" ng-class="getClass(page)" class="ng-scope">
+                        <a href="#/shelves" ng-show="page.route.tab.tabLabel &amp;&amp; isActiveTabGroup(page.route.tab.tabGroup) &amp;&amp; checkAccess(page.route.tab)" class="ng-binding ng-hide">Shelves</a>
+                    </li><!-- end ngRepeat: page in ROUTES --><li ng-repeat="page in ROUTES" ng-class="getClass(page)" class="ng-scope">
+                        <a href="#/shelf-builder" ng-show="page.route.tab.tabLabel &amp;&amp; isActiveTabGroup(page.route.tab.tabGroup) &amp;&amp; checkAccess(page.route.tab)" class="ng-binding ng-hide"></a>
+                    </li><!-- end ngRepeat: page in ROUTES --><li ng-repeat="page in ROUTES" ng-class="getClass(page)" class="ng-scope">
+                        <a href="#/collection" ng-show="page.route.tab.tabLabel &amp;&amp; isActiveTabGroup(page.route.tab.tabGroup) &amp;&amp; checkAccess(page.route.tab)" class="ng-binding ng-hide">Collection</a>
+                    </li><!-- end ngRepeat: page in ROUTES --><li ng-repeat="page in ROUTES" ng-class="getClass(page)" class="ng-scope">
+                        <a href="#/pre-sale-management" ng-show="page.route.tab.tabLabel &amp;&amp; isActiveTabGroup(page.route.tab.tabGroup) &amp;&amp; checkAccess(page.route.tab)" class="ng-binding ng-hide">Pre-Sale</a>
+                    </li><!-- end ngRepeat: page in ROUTES --><li ng-repeat="page in ROUTES" ng-class="getClass(page)" class="ng-scope">
+                        <a href="#/purchase-orders" ng-show="page.route.tab.tabLabel &amp;&amp; isActiveTabGroup(page.route.tab.tabGroup) &amp;&amp; checkAccess(page.route.tab)" class="ng-binding ng-hide">POs</a>
+                    </li><!-- end ngRepeat: page in ROUTES --><li ng-repeat="page in ROUTES" ng-class="getClass(page)" class="ng-scope">
+                        <a href="#/purchase-orders/detail/:POID" ng-show="page.route.tab.tabLabel &amp;&amp; isActiveTabGroup(page.route.tab.tabGroup) &amp;&amp; checkAccess(page.route.tab)" class="ng-binding ng-hide"></a>
+                    </li><!-- end ngRepeat: page in ROUTES --><li ng-repeat="page in ROUTES" ng-class="getClass(page)" class="ng-scope">
+                        <a href="#/autobuy" ng-show="page.route.tab.tabLabel &amp;&amp; isActiveTabGroup(page.route.tab.tabGroup) &amp;&amp; checkAccess(page.route.tab)" class="ng-binding ng-hide">Auto Buy</a>
+                    </li><!-- end ngRepeat: page in ROUTES --><li ng-repeat="page in ROUTES" ng-class="getClass(page)" class="ng-scope">
+                        <a href="#/autobuy-audio" ng-show="page.route.tab.tabLabel &amp;&amp; isActiveTabGroup(page.route.tab.tabGroup) &amp;&amp; checkAccess(page.route.tab)" class="ng-binding ng-hide"></a>
+                    </li><!-- end ngRepeat: page in ROUTES --><li ng-repeat="page in ROUTES" ng-class="getClass(page)" class="ng-scope">
+                        <a href="#/autobuy-history" ng-show="page.route.tab.tabLabel &amp;&amp; isActiveTabGroup(page.route.tab.tabGroup) &amp;&amp; checkAccess(page.route.tab)" class="ng-binding ng-hide"></a>
+                    </li><!-- end ngRepeat: page in ROUTES --><li ng-repeat="page in ROUTES" ng-class="getClass(page)" class="ng-scope">
+                        <a href="#/featured-list-management" ng-show="page.route.tab.tabLabel &amp;&amp; isActiveTabGroup(page.route.tab.tabGroup) &amp;&amp; checkAccess(page.route.tab)" class="ng-binding ng-hide">Featured List Add Books</a>
+                    </li><!-- end ngRepeat: page in ROUTES --><li ng-repeat="page in ROUTES" ng-class="getClass(page)" class="ng-scope">
+                        <a href="#/featured-list-order" ng-show="page.route.tab.tabLabel &amp;&amp; isActiveTabGroup(page.route.tab.tabGroup) &amp;&amp; checkAccess(page.route.tab)" class="ng-binding ng-hide">Landing Page List Order</a>
+                    </li><!-- end ngRepeat: page in ROUTES --><li ng-repeat="page in ROUTES" ng-class="getClass(page)" class="ng-scope">
+                        <a href="#/featured-list-book-order" ng-show="page.route.tab.tabLabel &amp;&amp; isActiveTabGroup(page.route.tab.tabGroup) &amp;&amp; checkAccess(page.route.tab)" class="ng-binding ng-hide">List's Book Order</a>
+                    </li><!-- end ngRepeat: page in ROUTES --><li ng-repeat="page in ROUTES" ng-class="getClass(page)" class="ng-scope">
+                        <a href="#/featured-list-group-management" ng-show="page.route.tab.tabLabel &amp;&amp; isActiveTabGroup(page.route.tab.tabGroup) &amp;&amp; checkAccess(page.route.tab)" class="ng-binding ng-hide">Featured List Groups</a>
+                    </li><!-- end ngRepeat: page in ROUTES --><li ng-repeat="page in ROUTES" ng-class="getClass(page)" class="ng-scope">
+                        <a href="#/library-settings" ng-show="page.route.tab.tabLabel &amp;&amp; isActiveTabGroup(page.route.tab.tabGroup) &amp;&amp; checkAccess(page.route.tab)" class="ng-binding ng-hide">Library</a>
+                    </li><!-- end ngRepeat: page in ROUTES --><li ng-repeat="page in ROUTES" ng-class="getClass(page)" class="ng-scope">
+                        <a href="#/library-users" ng-show="page.route.tab.tabLabel &amp;&amp; isActiveTabGroup(page.route.tab.tabGroup) &amp;&amp; checkAccess(page.route.tab)" class="ng-binding ng-hide"></a>
+                    </li><!-- end ngRepeat: page in ROUTES --><li ng-repeat="page in ROUTES" ng-class="getClass(page)" class="ng-scope">
+                        <a href="#/library-messages" ng-show="page.route.tab.tabLabel &amp;&amp; isActiveTabGroup(page.route.tab.tabGroup) &amp;&amp; checkAccess(page.route.tab)" class="ng-binding ng-hide"></a>
+                    </li><!-- end ngRepeat: page in ROUTES -->
+                </ul>
+            </div>
+            <!--{true:'span4',false:'span2'}[hasLibraryLabel()]-->
+            <div class="pull-right span2" ng-class="{true:'span4',false:'span2'}[hasLibraryLabel()]">
+                <div class="active-library-header ng-hide" ng-show="UserService.activeLibrary.LibraryName">
+                    <h5 class="ng-binding"></h5>
+                </div>
+
+                <div class="user-actions pull-right ng-hide" ng-show="UserService.user &amp;&amp; getPath() != '/'">
+                    <div class="btn-group user-menu">
+                        <a class="btn dropdown-toggle ng-binding" data-toggle="dropdown" href="#">
+                            <i class="icon-user"></i>
+                            
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li ng-show="currentRoute.$$route.tab.tabGroup != 'admin' &amp;&amp; (
+                                         UserService.user.IsLibraryAdmin || UserService.user.IsLibraryBuyer || UserService.user.IsShelfAdmin || UserService.user.IsLibraryUser)" class="ng-hide">
+                                <a ng-href="">
+                                    <i class="icon-wrench"></i>
+                                    Administration
+                                </a>
+                            </li>
+                            <li ng-show="currentRoute.$$route.tab.tabGroup == 'admin' &amp;&amp; UserService.user.IsLibraryUser" class="ng-hide">
+                                <a href="#/landing">
+                                    <i class="icon-wrench"></i>
+                                    Exit Administration
+                                </a>
+                            </li>
+                            <!-- ngRepeat: catalog in LibraryService.CatalogList --><li ng-show="showSwitchCatalogId()" ng-repeat="catalog in LibraryService.CatalogList" data-directive="" switch-catalog-id="" class="ng-scope">
+    <a ng-click="changeCatalogName(catalog.CatalogName)" class="ng-binding">
+    <i ng-show="LibraryService.IsSelectedCatalogName(catalog.CatalogName)" class="icon-arrow-right ng-hide"></i>
+    <i ng-hide="LibraryService.IsSelectedCatalogName(catalog.CatalogName)" class="icon-square"></i>
+    CA
+    </a>
+</li><!-- end ngRepeat: catalog in LibraryService.CatalogList --><li ng-show="showSwitchCatalogId()" ng-repeat="catalog in LibraryService.CatalogList" data-directive="" switch-catalog-id="" class="ng-scope">
+    <a ng-click="changeCatalogName(catalog.CatalogName)" class="ng-binding">
+    <i ng-show="LibraryService.IsSelectedCatalogName(catalog.CatalogName)" class="icon-arrow-right"></i>
+    <i ng-hide="LibraryService.IsSelectedCatalogName(catalog.CatalogName)" class="icon-square ng-hide"></i>
+    US
+    </a>
+</li><!-- end ngRepeat: catalog in LibraryService.CatalogList -->
+
+                            <li>
+                                <a ng-click="resetPassword()">
+                                    <i class="icon-lock"></i>
+                                    Change Password
+                                </a>
+                            </li>
+                            <li>
+                                <a ng-click="redirectToReports()">
+                                    <i class="icon-book"></i>
+                                    Reports
+                                </a>
+                            </li>
+                            <li>
+                                <a tabindex="-1" ng-click="logout()">
+                                    <i class="icon-off"></i>
+                                    Logout
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="notifications ng-isolate-scope" data-directive="" notification-container="">
+    <div class="notificationbutton ng-hide" ng-show="NotificationService.notifications.length &gt; 0">
+        <div id="toast-container" class="toast-bottom-right">
+        </div>
+    </div>
+</div>
+<div id="toast-container" ng-class="config.position" data-toaster-options="{ 'position-class': 'toast-bottom-right', 'time-out': '4000' }" class="toast-bottom-right"><!-- ngRepeat: toaster in toasters --></div>
+
+<div modal-container="">
+    <div class="modal hide" shelf-management-dialog=""></div>
+    <div class="modal hide" add-new-shelf=""></div>
+    <div class="modal hide" shelf-selector-dialog=""></div>
+    <div class="modal hide ng-scope" modal-shelf-detail="" style="z-index: 10000;"><!-- Invoked via modalShelfDetail directive -->
+<form name="shelfDetailForm" style="margin: 0;" class="form-horizontal ng-pristine ng-valid">
+
+<div class="modal-header">
+    <a class="close" ng-click="hideModal()">x</a>
+    <h3>Shelf Detail</h3>
+</div>
+
+<div class="modal-body">
+
+    <div class="notifications ng-isolate-scope" data-directive="" notification-container="" data-show-notification-type="api-error">
+    <div class="notificationbutton ng-hide" ng-show="NotificationService.notifications.length &gt; 0">
+        <div id="toast-container" class="toast-bottom-right">
+        </div>
+    </div>
+</div>
+
+    <div class="control-group">
+        <label class="control-label">Shelf Name</label>
+        <div class="controls">
+            <input type="text" placeholder="Shelf Name" ng-model="shelf.Name" autofocus="" class="ng-pristine ng-valid" />
+        </div>
+    </div>
+    <div class="control-group" ng-hide="getPath() == '/collection'">
+        <label class="control-label">Shelf Type</label>
+        <div class="controls">
+            <select ng-model="selectedShelfType" ng-change="shelf.AutoFillStrategyType = selectedShelfType.typeId" ng-options="o.Name for o in ShelfService.shelfTypes" class="ng-pristine ng-valid"><option value="?" selected="selected"></option><option value="0">Manual</option><option value="1">New This Week</option><option value="2">New This Month</option><option value="3">Popular This Week</option><option value="4">Popular This Month</option></select>
+        </div>
+    </div>
+
+    <!-- Options for automated shelf types -->
+    <div ng-show="shelf.AutoFillStrategyType != 0" class="">
+        <div class="control-group">
+            <label class="control-label">Category</label>
+            <div class="controls">
+                <select ng-model="selectedFilterCategory" ng-change="shelf.AutoFillCategoryCriteria = selectedFilterCategory.SourceId" ng-options="categories.CategoryName for categories in ShelfCategoriesService.categories" class="ng-pristine ng-valid"><option value="?" selected="selected"></option></select>
+            </div>
+        </div>
+        <div class="control-group">
+            <label class="control-label">Author</label>
+            <div class="controls">
+                <input type="text" ng-model="shelf.AutoFillAuthorCriteria" placeholder="Author" class="ng-pristine ng-valid" />
+            </div>
+        </div>
+        <div class="control-group">
+            <label class="control-label">Publisher</label>
+            <div class="controls">
+                <input type="text" ng-model="shelf.AutoFillPublisherCriteria" placeholder="Publisher" class="ng-pristine ng-valid" />
+            </div>
+        </div>
+    </div>
+
+    <div class="control-group">
+        <div class="controls">
+            <button class="btn ng-pristine ng-valid" type="button" name="shelfActive" ng-model="shelf.IsActive" ng-class="{true:'btn-success', false:'btn-danger'}[shelf.IsActive]" bs-button="" data-toggle="button"><span ng-hide="shelf.IsActive" class="">In-</span>Active
+            </button>
+        </div>
+    </div>
+
+    <div ng-hide="shelf.AutoFillStrategyType != 0" style="height: 180px;" class="ng-hide">
+        <br />
+    </div>
+</div>
+
+<div class="modal-footer">
+
+    <div class="pull-left">
+        <span class="loading-indicator-text ng-hide" ng-show="shelf.saving">
+            <i class="icon-cloud icon-spin"></i> Saving...
+        </span>
+    </div>
+
+    <!-- Make sure the delete button is not visible unless the record is a valid shelf record from the server -->
+    <button class="btn btn-important ng-hide" ng-click="deleteShelf()" ng-show="shelf.SourceShelfId &amp;&amp; (shelf.PresentationId != shelf.SourceShelfId)"><i class="icon-trash"></i> Delete Shelf</button>
+    <button class="btn btn-success" ng-disabled="shelfDetailForm.$pristine || shelf.saving" ng-click="saveShelf()" disabled="disabled">
+        <i class="icon-save"></i>
+        Save
+    </button>
+    <button class="btn" ng-click="hideModal()">Close</button>
+</div>
+
+</form>
+</div>
+    <div class="modal hide" publisher-criteria-dialog=""></div>
+    <div class="modal hide" category-criteria-dialog=""></div>
+    <div class="modal hide" data-directive="" x-content-provider-criteria-dialog=""></div>
+</div>
+
+<div id="fred" class="container ng-hide" ng-show="currentRoute.$$route.tab.tabGroup == 'default' &amp;&amp; UserService.user.IsLibraryUser" data-directive="" quick-search="">
+    <div class="row">
+        <div class="offset5 span7" style="padding-top: 5px;">
+            <div class="input-append ng-hide" ng-show="showQuickSearch()" ng-init="showQuick = true" style="float: right;">
+                <form style="float: left;" class="ng-pristine ng-valid">
+                    <input type="text" ng-hide="hideQuick" id="quickSearch" placeholder="Search: Title, Subtitle, Author" class="input-large ng-pristine ng-valid" />
+                    <button type="submit" class="btn" ng-hide="hideQuick" ng-click="goQuickSearch()">Search</button>
+                </form>
+                <button class="btn" ng-hide="hideQuick" ng-click="hideQuick = true"><i class="icon-eye-close"></i> Hide</button>
+                <button class="btn ng-hide" ng-show="hideQuick" ng-click="hideQuick = false"><i class="icon-search"></i> Quick Search</button>
+                <a class="btn" ng-click="showSavedSearchList();">Saved Searches</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- MAIN view container -->
+<div class="container body-container">
+    <!-- ngView:  --><div ng-view="" class="ng-scope"><form class="inline-modal login-window ng-scope ng-valid ng-valid-required ng-dirty" name="LoginForm">
+    <div class="modal-header">
+        <h3>Login</h3>
+    </div>
+    <div ng-show="UserService.user" class="login-redirect-overlay ng-hide" mmm-match-height-to-next-element="" style="height: 107px;">
+        <h2><i class="icon-cloud icon-spin"></i> Redirecting...</h2>
+    </div>
+    <div class="modal-body">
+
+        <div class="alert alert-error" ng-show="loginError.ErrorMessage">
+            <!-- uiIf: loginError.ErrorMessage --><span ui-if="loginError.ErrorMessage" class="ng-scope ng-binding">The user id or password is incorrect </span>
+        </div>
+
+        <input id="login" type="text" ng-required="" ng-model="username" name="username" maxlength="100" placeholder="Email" class="input-large ng-valid ng-valid-required ng-dirty" autofocus="autofocus" />
+        <input id="password" type="password" ng-model="password" name="password" maxlength="100" placeholder="Password" class="input-large ng-valid ng-dirty" /><br />
+        <button ng-click="logIn()" type="submit" class="btn" ng-disabled="authenticating || LoginForm.$invalid"><i ng-show="authenticating" class="icon-cloud icon-spin ng-hide"></i> Login</button>
+
+        <!--https://{{VersionService.data.EnvironmentInfo.ReaktorAdminServer}}/admin/forgot_password.php-->
+        <a ng-show="VersionService.data" ng-href="#/forgot-password" href="#/forgot-password" class="">
+            <span class="small-text-label">Forgot Password</span>
+        </a>
+
+    </div>
+    <div class="modal-footer app-version-label small-text-label">
+        <span ng-show="VersionService.data" class="ng-binding">
+          Version 1.15.310.0
+        </span>
+        <!-- ngInclude: 'html/CatBuildNumber.html' --><span ng-include="'html/CatBuildNumber.html'" class="ng-scope"><span class="ng-scope">(master-UI-1.15.183.0)</span></span>
+    </div>
+</form>
+</div>
+</div>
+<!-- END MAIN view container -->
+
+
+
+
+
+
+
+<script src="https://js-agent.newrelic.com/nr-412.min.js"></script><script type="text/javascript" src="https://beacon-1.newrelic.com/1/b59724294b?a=2852833&amp;ap=1&amp;be=289&amp;fe=2959&amp;dc=2397&amp;tt=1BE7F3446750AFD6&amp;v=412.920d26d&amp;to=b1FTZhcFC0FVBRANWVYbZEAMSwRAVxMXS1pZTV5HEUsMXFADHEpeTFld&amp;f=%5B%22err%22,%22xhr%22%5D&amp;jsonp=NREUM.setToken&amp;perf=%7B%22timing%22:%7B%22of%22:1411247318946,%22n%22:0,%22u%22:234,%22ue%22:234,%22dl%22:247,%22di%22:2684,%22ds%22:2684,%22de%22:3246,%22dc%22:3246,%22l%22:3246,%22le%22:3249,%22f%22:0,%22dn%22:0,%22dne%22:0,%22c%22:0,%22ce%22:0,%22rq%22:1,%22rp%22:42,%22rpe%22:115%7D,%22navigation%22:%7B%7D%7D"></script></body></html>
